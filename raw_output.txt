@@ -1,0 +1,49 @@
+Sample output so far
+
+17
+  Atlantic salmon | fourth Saturday in April to September 30. [ ]
+  Brook trout | fourth Saturday in April to September 30. [ ]
+  Brown trout | fourth Saturday in April to September 30. [ ]
+  Channel catfish | fourth Saturday in April to November 15. [ ]
+  Crappie | open all year. [ 1/1/2024 - 31/12/2024]
+  Lake sturgeon | closed all year. [ ]
+  Lake trout | fourth Saturday in April to September 30. [ ]
+  Lake whitefish | fourth Saturday in April to November 15. [ ]
+  Largemouth and smallmouth bass combined | third Saturday in June to December 15. [ ]
+  Muskellunge | 1st Saturday in June to December 15. [ ]
+  Northern pike | open all year. [ 1/1/2024 - 31/12/2024]
+  Pacific salmon | fourth Saturday in April to September 30. [ ]
+  Rainbow trout | fourth Saturday in April to September 30. [ ]
+  Sunfish | open all year. [ 1/1/2024 - 31/12/2024]
+  Walleye and sauger combined | second Saturday in May to November 15. [ ]
+  Yellow perch | open all year. [ 1/1/2024 - 31/12/2024]
+18
+  Atlantic salmon | closed all year. [ ]
+  Brook trout | open all year. [ 1/1/2024 - 31/12/2024]
+  Brown trout | open all year. [ 1/1/2024 - 31/12/2024]
+  Channel catfish | open all year. [ 1/1/2024 - 31/12/2024]
+  Crappie | open all year. [ 1/1/2024 - 31/12/2024]
+  Lake sturgeon | closed all year. [ ]
+  Lake trout | fourth Saturday in May to September 8. [ ]
+  Lake whitefish | open all year. [ 1/1/2024 - 31/12/2024]
+  Largemouth and smallmouth bass combined | third Saturday in June to December 15. [ ]
+  Muskellunge | 1st Saturday in June to December 15. [ ]
+  Northern pike | January 1 to March 31 and second Saturday in May to December 31. [ ]
+  Pacific salmon | open all year. [ 1/1/2024 - 31/12/2024]
+  Rainbow trout | open all year. [ 1/1/2024 - 31/12/2024]
+  Splake | open all year. [ 1/1/2024 - 31/12/2024]
+  Sunfish | open all year. [ 1/1/2024 - 31/12/2024]
+  Walleye and sauger combined | January 1 to March 1 and second Saturday in May to December 31. [ ]
+  Yellow perch | open all year. [ 1/1/2024 - 31/12/2024]
+
+
+There are a few different texts possibilities which represent seasons. 
+Gimmes:
+- open all year
+- closed all year
+
+Other ones can be easily split on " and " and end up as "SOMETHING1 to SOMETHING2",
+where SOMETHING is in the following formats:
+- January 1
+- second Saturday in May
+- 1st Saturday in June

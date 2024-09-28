@@ -11,6 +11,6 @@ The other half will be a Web interface which makes searching/filtering easy, bas
 
 
 ### Todo
-- Figure out how to parse the remaining options into datetimes (D/M/Y): 'January 1', 'second Saturday in May', '1st Saturday in June'
 - Write text to JSON 
+- Clean up code/comments
 - Web interface

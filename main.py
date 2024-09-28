@@ -1,22 +1,9 @@
 from fish_limit import FishLimit
-from limit_range import LimitRange
+from date_parser import parse_seasons
 from zone_limit import ZoneLimit
-from datetime import datetime
 import fmz_scraper
 
 ZONE_QUANTITY = 20
-CURRENT_YEAR = datetime.now().year
-
-
-def parse_seasons(fish_limit: FishLimit) -> None:
-    if fish_limit.season_unformatted == 'closed all year':
-        pass
-    if fish_limit.season_unformatted == 'open all year':
-        start = datetime(CURRENT_YEAR, 1, 1, 0, 0, 0)
-        end = datetime(CURRENT_YEAR, 12, 31, 0, 0, 0)
-        limit_range = LimitRange(start, end)
-        fish_limit.limits.append(limit_range)
-    pass
 
 def get_zone_limits() -> list[ZoneLimit]:
     zone_limits: list[ZoneLimit] = []
@@ -38,7 +25,7 @@ def get_zone_limits() -> list[ZoneLimit]:
                 continue
             elif "Season:" in text:
                 fish_limit.season_unformatted = text.removeprefix("Season: ").strip()
-                parse_seasons(fish_limit)
+                fish_limit.limits = parse_seasons(fish_limit.season_unformatted)
                 # Parse the unformatted into proper ranges
                 fish_limits.append(fish_limit)
                 fish_limit = FishLimit()

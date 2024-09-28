@@ -1,0 +1,3053 @@
+[
+  {
+    "fish_limits": [
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to September 30",
+        "species": "Brook trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-04-30T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          },
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-07-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to April 30 and July 1 to December 31",
+        "species": "Lake sturgeon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "Open all year",
+        "species": "Lake trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "Open all year",
+        "species": "Lake whitefish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "Open all year",
+        "species": "Northern pike"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "Open all year",
+        "species": "Walleye and sauger combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "Open all year",
+        "species": "Yellow perch"
+      }
+    ],
+    "zone_number": 1
+  },
+  {
+    "fish_limits": [
+      {
+        "limits": [
+          {
+            "end": "2024-09-02T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to Labour Day",
+        "species": "Brook trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Brown trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-04-30T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          },
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-07-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to April 30 and July 1 to December 31",
+        "species": "Lake sturgeon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to September 30",
+        "species": "Lake trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Lake whitefish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Largemouth and smallmouth bass combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-15T00:00:00+00:00",
+            "start": "2024-06-15T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "third Saturday in June to December 15",
+        "species": "Muskellunge"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Northern pike"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Rainbow trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Splake"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Sunfish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-04-14T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          },
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-05-18T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to April 14 and third Saturday in May to December 31",
+        "species": "Walleye and sauger combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Yellow perch"
+      }
+    ],
+    "zone_number": 2
+  },
+  {
+    "fish_limits": [
+      {
+        "limits": [
+          {
+            "end": "2024-09-15T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to September 15",
+        "species": "Brook trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-04-15T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          },
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-07-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to April 15 and July 1 to December 31",
+        "species": "Lake sturgeon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to September 30",
+        "species": "Lake trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Lake whitefish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Largemouth and smallmouth bass combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Northern pike"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Splake"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Sunfish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-04-14T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          },
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-05-18T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to April 14 and third Saturday in May to December 31",
+        "species": "Walleye and sauger combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Yellow perch"
+      }
+    ],
+    "zone_number": 3
+  },
+  {
+    "fish_limits": [
+      {
+        "limits": [
+          {
+            "end": "2024-09-02T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to Labour Day",
+        "species": "Brook trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Crappie"
+      },
+      {
+        "limits": [],
+        "season_unformatted": "closed all year",
+        "species": "Lake sturgeon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to September 30",
+        "species": "Lake trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Lake whitefish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Largemouth and smallmouth bass combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-15T00:00:00+00:00",
+            "start": "2024-06-15T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "third Saturday in June to December 15",
+        "species": "Muskellunge"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Northern pike"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Rainbow trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Splake"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Sunfish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-04-14T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          },
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-05-18T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to April 14 and third Saturday in May to December 31",
+        "species": "Walleye and sauger combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Yellow perch"
+      }
+    ],
+    "zone_number": 4
+  },
+  {
+    "fish_limits": [
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Brook trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Brown trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Crappie"
+      },
+      {
+        "limits": [],
+        "season_unformatted": "closed all year",
+        "species": "Lake sturgeon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to September 30",
+        "species": "Lake trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Lake whitefish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Largemouth and smallmouth bass combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-15T00:00:00+00:00",
+            "start": "2024-06-15T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "third Saturday in June to December 15",
+        "species": "Muskellunge"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Northern pike"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Rainbow trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Splake"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Sunfish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-04-14T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          },
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-05-18T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to April 14 and third Saturday in May to December 31",
+        "species": "Walleye and sauger combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Yellow perch"
+      }
+    ],
+    "zone_number": 5
+  },
+  {
+    "fish_limits": [
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Atlantic salmon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-02T00:00:00+00:00",
+            "start": "2024-04-27T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "fourth Saturday in April to Labour Day",
+        "species": "Brook trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Brown trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Channel catfish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Crappie"
+      },
+      {
+        "limits": [],
+        "season_unformatted": "closed all year",
+        "species": "Lake sturgeon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to September 30",
+        "species": "Lake trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Lake whitefish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Largemouth and smallmouth bass combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-15T00:00:00+00:00",
+            "start": "2024-06-15T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "third Saturday in June to December 15",
+        "species": "Muskellunge"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Northern pike"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Pacific salmon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Rainbow trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Splake"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Sunfish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-04-14T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          },
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-05-18T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to April 14 and third Saturday in May to December 31",
+        "species": "Walleye and sauger combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Yellow perch"
+      }
+    ],
+    "zone_number": 6
+  },
+  {
+    "fish_limits": [
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Atlantic salmon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-02T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to Labour Day",
+        "species": "Brook trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Brown trout"
+      },
+      {
+        "limits": [],
+        "season_unformatted": "closed all year",
+        "species": "Lake sturgeon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to September 30",
+        "species": "Lake trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Lake whitefish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Largemouth and smallmouth bass combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Northern pike"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Pacific salmon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Rainbow trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Splake"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Sunfish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-04-14T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          },
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-05-18T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to April 14 and third Saturday in May to December 31",
+        "species": "Walleye and sauger combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Yellow perch"
+      }
+    ],
+    "zone_number": 7
+  },
+  {
+    "fish_limits": [
+      {
+        "limits": [
+          {
+            "end": "2024-09-15T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to September 15",
+        "species": "Brook trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-04-30T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          },
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-07-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to April 30 and July 1 to December 31",
+        "species": "Lake sturgeon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-03-15T00:00:00+00:00",
+            "start": "2024-02-15T00:00:00+00:00"
+          },
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-05-18T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "February 15 to March 15 and third Saturday in May to September 30",
+        "species": "Lake trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Lake whitefish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Largemouth and smallmouth bass combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Northern pike"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Rainbow trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Splake"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Sunfish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-04-14T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          },
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-05-18T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to April 14 and third Saturday in May to December 31",
+        "species": "Walleye and sauger combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Yellow perch"
+      }
+    ],
+    "zone_number": 8
+  },
+  {
+    "fish_limits": [
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Atlantic salmon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-02T00:00:00+00:00",
+            "start": "2024-04-27T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "fourth Saturday in April to Labour Day",
+        "species": "Brook trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Brown trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Channel catfish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Crappie"
+      },
+      {
+        "limits": [],
+        "season_unformatted": "closed all year",
+        "species": "Lake sturgeon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to September 30",
+        "species": "Lake trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Lake whitefish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Largemouth and smallmouth bass combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-15T00:00:00+00:00",
+            "start": "2024-06-15T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "third Saturday in June to December 15",
+        "species": "Muskellunge"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Northern pike"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Pacific salmon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Rainbow trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to September 30",
+        "species": "Splake"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Sunfish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-04-14T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          },
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-05-18T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to April 14 and third Saturday in May to December 31",
+        "species": "Walleye and sauger combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Yellow perch"
+      }
+    ],
+    "zone_number": 9
+  },
+  {
+    "fish_limits": [
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to September 30",
+        "species": "Atlantic salmon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to September 30",
+        "species": "Brook trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Brown trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Channel catfish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Crappie"
+      },
+      {
+        "limits": [],
+        "season_unformatted": "closed all year",
+        "species": "Lake sturgeon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-02T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to Labour Day",
+        "species": "Lake trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Lake whitefish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-11-30T00:00:00+00:00",
+            "start": "2024-06-15T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "third Saturday in June to November 30",
+        "species": "Largemouth and smallmouth bass combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-15T00:00:00+00:00",
+            "start": "2024-06-15T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "third Saturday in June to December 15",
+        "species": "Muskellunge"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Northern pike"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Pacific salmon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Rainbow trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Splake"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Sunfish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-03-17T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          },
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-05-18T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to the third Sunday in March and third Saturday in May to December 31",
+        "species": "Walleye and sauger combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Yellow perch"
+      }
+    ],
+    "zone_number": 10
+  },
+  {
+    "fish_limits": [
+      {
+        "limits": [],
+        "season_unformatted": "closed all year",
+        "species": "Atlantic salmon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-02-15T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "February 15 to September 30",
+        "species": "Brook trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-04-27T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "fourth Saturday in April to September 30",
+        "species": "Brown trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Channel catfish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Crappie"
+      },
+      {
+        "limits": [],
+        "season_unformatted": "closed all year",
+        "species": "Lake sturgeon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-03-17T00:00:00+00:00",
+            "start": "2024-02-15T00:00:00+00:00"
+          },
+          {
+            "end": "2024-09-02T00:00:00+00:00",
+            "start": "2024-05-18T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "February 15 to third Sunday in March and third Saturday in May to Labour Day",
+        "species": "Lake trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Lake whitefish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-03-17T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          },
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-05-18T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to third Sunday in March and third Saturday in May to December 31",
+        "species": "Largemouth and smallmouth bass combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-15T00:00:00+00:00",
+            "start": "2024-06-15T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "third Saturday in June to December 15",
+        "species": "Muskellunge"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-03-17T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          },
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-05-18T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to third Sunday in March and third Saturday in May to December 31",
+        "species": "Northern pike"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Pacific salmon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Rainbow trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Splake"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Sunfish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-03-17T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          },
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-05-18T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to third Sunday in March and third Saturday in May to December 31",
+        "species": "Walleye and sauger combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Yellow perch"
+      }
+    ],
+    "zone_number": 11
+  },
+  {
+    "fish_limits": [
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-04-26T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "Friday before fourth Saturday in April to September 30",
+        "species": "Atlantic salmon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-04-26T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "Friday before fourth Saturday in April to September 30",
+        "species": "Brook trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-04-26T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "Friday before fourth Saturday in April to September 30",
+        "species": "Brown trout and rainbow trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Channel catfish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Crappie"
+      },
+      {
+        "limits": [],
+        "season_unformatted": "closed all year",
+        "species": "Lake sturgeon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-04-26T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "Friday before fourth Saturday in April to September 30",
+        "species": "Lake trout and splake"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Lake whitefish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-11-30T00:00:00+00:00",
+            "start": "2024-06-28T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "Friday before fourth Saturday in June to November 30",
+        "species": "Largemouth and smallmouth bass combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-15T00:00:00+00:00",
+            "start": "2024-06-21T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "Friday before third Saturday in June to December 15",
+        "species": "Muskellunge"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-03-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          },
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-05-17T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to March 31 and Friday before third Saturday in May to December 31",
+        "species": "Northern pike"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Sunfish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-03-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          },
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-05-17T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to March 31 and Friday before third Saturday in May to December 31",
+        "species": "Walleye and sauger combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Yellow perch"
+      }
+    ],
+    "zone_number": 12
+  },
+  {
+    "fish_limits": [
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Atlantic salmon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Brown trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Channel catfish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Crappie"
+      },
+      {
+        "limits": [],
+        "season_unformatted": "closed all year",
+        "species": "Lake sturgeon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          },
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-12-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to September 30 and December 1 to December 31",
+        "species": "Lake trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Lake whitefish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-11-30T00:00:00+00:00",
+            "start": "2024-06-22T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "fourth Saturday in June to November 30",
+        "species": "Largemouth and smallmouth bass combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-15T00:00:00+00:00",
+            "start": "2024-06-15T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "third Saturday in June to December 15",
+        "species": "Muskellunge"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Northern pike"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Pacific salmon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Rainbow trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Sunfish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Walleye and sauger combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Yellow perch"
+      }
+    ],
+    "zone_number": 13
+  },
+  {
+    "fish_limits": [
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Atlantic salmon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Brown trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Channel catfish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Crappie"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Lake herring (cisco)"
+      },
+      {
+        "limits": [],
+        "season_unformatted": "closed all year",
+        "species": "Lake sturgeon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          },
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-12-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to September 30 and December 1 to December 31",
+        "species": "Lake trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Lake whitefish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-11-30T00:00:00+00:00",
+            "start": "2024-06-22T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "fourth Saturday in June to November 30",
+        "species": "Largemouth and smallmouth bass combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-15T00:00:00+00:00",
+            "start": "2024-06-15T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "third Saturday in June to December 15",
+        "species": "Muskellunge"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-03-01T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          },
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-05-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to March 1 and May 1 to December 31",
+        "species": "Northern pike"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Pacific salmon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Rainbow trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Sunfish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-03-01T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          },
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-05-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to March 1 and May 1 to December 31",
+        "species": "Walleye and sauger combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Yellow perch"
+      }
+    ],
+    "zone_number": 14
+  },
+  {
+    "fish_limits": [
+      {
+        "limits": [],
+        "season_unformatted": "closed all year",
+        "species": "Atlantic salmon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to September 30",
+        "species": "Brook trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Brown trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Channel catfish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Crappie"
+      },
+      {
+        "limits": [],
+        "season_unformatted": "closed all year",
+        "species": "Lake sturgeon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to September 30",
+        "species": "Lake trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Lake whitefish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-11-30T00:00:00+00:00",
+            "start": "2024-06-22T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "fourth Saturday in June to November 30",
+        "species": "Largemouth and smallmouth bass combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-15T00:00:00+00:00",
+            "start": "2024-06-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "1st Saturday in June to December 15",
+        "species": "Muskellunge"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-03-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          },
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-05-18T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to March 31 and third Saturday in May to December 31",
+        "species": "Northern pike"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Pacific salmon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Rainbow trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Splake"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Sunfish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-03-15T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          },
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-05-18T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to March 15 and third Saturday in May to December 31",
+        "species": "Walleye and sauger combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Yellow perch"
+      }
+    ],
+    "zone_number": 15
+  },
+  {
+    "fish_limits": [
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-04-27T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "fourth Saturday in April to September 30",
+        "species": "Atlantic salmon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-04-27T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "fourth Saturday in April to September 30",
+        "species": "Brook trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-04-27T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "fourth Saturday in April to September 30",
+        "species": "Brown trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Channel catfish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Crappie"
+      },
+      {
+        "limits": [],
+        "season_unformatted": "closed all year",
+        "species": "Lake sturgeon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to September 30",
+        "species": "Lake trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Lake whitefish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-11-30T00:00:00+00:00",
+            "start": "2024-06-22T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "fourth Saturday in June to November 30",
+        "species": "Largemouth and smallmouth bass combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-15T00:00:00+00:00",
+            "start": "2024-06-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "first Saturday in June to December 15",
+        "species": "Muskellunge"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-03-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          },
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-05-11T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to March 31 and second Saturday in May to December 31",
+        "species": "Northern pike"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-04-27T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "fourth Saturday in April to September 30",
+        "species": "Pacific salmon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-04-27T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "fourth Saturday in April to September 30",
+        "species": "Rainbow trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Splake"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Sunfish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-03-15T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          },
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-05-11T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to March 15 and second Saturday in May to December 31",
+        "species": "Walleye and sauger combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Yellow perch"
+      }
+    ],
+    "zone_number": 16
+  },
+  {
+    "fish_limits": [
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-04-27T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "fourth Saturday in April to September 30",
+        "species": "Atlantic salmon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-04-27T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "fourth Saturday in April to September 30",
+        "species": "Brook trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-04-27T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "fourth Saturday in April to September 30",
+        "species": "Brown trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-11-15T00:00:00+00:00",
+            "start": "2024-04-27T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "fourth Saturday in April to November 15",
+        "species": "Channel catfish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Crappie"
+      },
+      {
+        "limits": [],
+        "season_unformatted": "closed all year",
+        "species": "Lake sturgeon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-04-27T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "fourth Saturday in April to September 30",
+        "species": "Lake trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-11-15T00:00:00+00:00",
+            "start": "2024-04-27T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "fourth Saturday in April to November 15",
+        "species": "Lake whitefish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-15T00:00:00+00:00",
+            "start": "2024-06-15T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "third Saturday in June to December 15",
+        "species": "Largemouth and smallmouth bass combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-15T00:00:00+00:00",
+            "start": "2024-06-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "1st Saturday in June to December 15",
+        "species": "Muskellunge"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Northern pike"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-04-27T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "fourth Saturday in April to September 30",
+        "species": "Pacific salmon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-04-27T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "fourth Saturday in April to September 30",
+        "species": "Rainbow trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Sunfish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-11-15T00:00:00+00:00",
+            "start": "2024-05-11T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "second Saturday in May to November 15",
+        "species": "Walleye and sauger combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Yellow perch"
+      }
+    ],
+    "zone_number": 17
+  },
+  {
+    "fish_limits": [
+      {
+        "limits": [],
+        "season_unformatted": "closed all year",
+        "species": "Atlantic salmon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Brook trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Brown trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Channel catfish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Crappie"
+      },
+      {
+        "limits": [],
+        "season_unformatted": "closed all year",
+        "species": "Lake sturgeon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-08T00:00:00+00:00",
+            "start": "2024-05-25T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "fourth Saturday in May to September 8",
+        "species": "Lake trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Lake whitefish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-15T00:00:00+00:00",
+            "start": "2024-06-15T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "third Saturday in June to December 15",
+        "species": "Largemouth and smallmouth bass combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-15T00:00:00+00:00",
+            "start": "2024-06-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "1st Saturday in June to December 15",
+        "species": "Muskellunge"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-03-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          },
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-05-11T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to March 31 and second Saturday in May to December 31",
+        "species": "Northern pike"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Pacific salmon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Rainbow trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Splake"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Sunfish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-03-01T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          },
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-05-11T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to March 1 and second Saturday in May to December 31",
+        "species": "Walleye and sauger combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Yellow perch"
+      }
+    ],
+    "zone_number": 18
+  },
+  {
+    "fish_limits": [
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Atlantic salmon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Brown trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Channel catfish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Crappie"
+      },
+      {
+        "limits": [],
+        "season_unformatted": "closed all year",
+        "species": "Lake sturgeon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          },
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-12-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to September 30 and December 1 to December 31",
+        "species": "Lake trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Lake whitefish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-11-30T00:00:00+00:00",
+            "start": "2024-06-22T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "fourth Saturday in June to November 30",
+        "species": "Largemouth and smallmouth bass combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-15T00:00:00+00:00",
+            "start": "2024-06-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "first Saturday in June to December 15",
+        "species": "Muskellunge"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Northern pike"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Pacific salmon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Rainbow trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Sunfish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Walleye and sauger combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Yellow perch"
+      }
+    ],
+    "zone_number": 19
+  },
+  {
+    "fish_limits": [
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Atlantic salmon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Brown trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Channel catfish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Crappie"
+      },
+      {
+        "limits": [],
+        "season_unformatted": "closed all year",
+        "species": "Lake sturgeon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-09-30T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          },
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-12-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to September 30 and December 1 to December 31",
+        "species": "Lake trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Lake whitefish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-15T00:00:00+00:00",
+            "start": "2024-06-15T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "third Saturday in June to December 15",
+        "species": "Muskellunge"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-03-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          },
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-05-04T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to March 31 and first Saturday in May to December 31",
+        "species": "Northern pike"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Pacific salmon"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Rainbow trout"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Sunfish"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-03-01T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          },
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-05-04T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "January 1 to March 1 and first Saturday in May to December 31",
+        "species": "Walleye and sauger combined"
+      },
+      {
+        "limits": [
+          {
+            "end": "2024-12-31T00:00:00+00:00",
+            "start": "2024-01-01T00:00:00+00:00"
+          }
+        ],
+        "season_unformatted": "open all year",
+        "species": "Yellow perch"
+      }
+    ],
+    "zone_number": 20
+  }
+]

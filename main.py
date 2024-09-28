@@ -2,18 +2,17 @@ from fish_limit import FishLimit
 from date_parser import DateParser
 from zone_limit import ZoneLimit
 import fmz_scraper
+import jsons
+import sys
 
 ZONE_QUANTITY = 20
+date_parser = DateParser()
 
-def get_zone_limits() -> list[ZoneLimit]:
+def get_zone_limits(zones: list[int]) -> list[ZoneLimit]:
     zone_limits: list[ZoneLimit] = []
 
-    date_parser = DateParser()
-
-    for zone_number in range (1, ZONE_QUANTITY + 1):
-        # TESTING for now
-        if zone_number != 17 and zone_number != 18:
-            continue 
+    for zone_number in zones:
+        print(f'Getting Zone {zones.index(zone_number) + 1}/{len(zones)} (Zone {zone_number})')
 
         zone_limit = ZoneLimit(zone_number)
 
@@ -26,7 +25,7 @@ def get_zone_limits() -> list[ZoneLimit]:
                 # don't care about this line
                 continue
             elif "Season:" in text:
-                fish_limit.season_unformatted = text.removeprefix("Season: ").strip()
+                fish_limit.season_unformatted = text.removeprefix("Season: ").removeprefix("NewSeason: ").strip()
                 fish_limit.limits = date_parser.parse_unformatted_season(fish_limit.season_unformatted)
                 # Parse the unformatted into proper ranges
                 fish_limits.append(fish_limit)
@@ -41,7 +40,21 @@ def get_zone_limits() -> list[ZoneLimit]:
     return zone_limits
 
 if __name__ == '__main__':
-    zone_limits: list[ZoneLimit] = get_zone_limits()
+    zones: list[int] = []
+    if len(sys.argv) > 1:
+        for arg in sys.argv[1:]:
+            if arg.isnumeric():
+                zones.append(int(arg))
+            else:
+                raise TypeError(f'All args must be zone numbers (integers): {arg} is not number')
+    else:
+        # no arg, get all
+        zones = list(r for r in range(1, ZONE_QUANTITY + 1))
 
-    for zone_limit in zone_limits:
-        print(zone_limit)
+    zone_limits: list[ZoneLimit] = get_zone_limits(zones)
+    result = jsons.dumps(zone_limits, {'sort_keys': True, 'indent': 2 })
+
+    with open(f'output/{date_parser.CURRENT_YEAR}.json', "w") as file:
+        file.write(result)
+    
+    file.close()

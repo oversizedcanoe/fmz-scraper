@@ -2,6 +2,12 @@ from datetime import datetime
 from limit_range import LimitRange
 import calendar
 
+CLOSED_ALL_YEAR = 'closed all year'
+OPEN_ALL_YEAR = 'open all year'
+LABOUR_DAY = 'labour day'
+DAY_NAMES = list(calendar.day_name)
+MONTH_NAMES = list(calendar.month_name)
+
 class DateParser:
     def __init__(self):
         self.calendar = calendar.Calendar()
@@ -10,9 +16,9 @@ class DateParser:
         
     def parse_unformatted_season(self, season_unformatted: str) -> list[LimitRange]:
         limit_ranges: list[LimitRange] = []
-        if season_unformatted == 'closed all year':
+        if season_unformatted.lower() == CLOSED_ALL_YEAR:
             return limit_ranges
-        elif season_unformatted == 'open all year':
+        elif season_unformatted.lower() == OPEN_ALL_YEAR:
             start = datetime(self.CURRENT_YEAR, 1, 1, 0, 0, 0)
             end = datetime(self.CURRENT_YEAR, 12, 31, 0, 0, 0)
             limit_range = LimitRange(start, end)
@@ -39,6 +45,7 @@ class DateParser:
 
 
     def __get_number_from_ordinal_string(self, ordinal_string: str) -> int:
+        # TODO This and the other match statement are similar, could be made into a const dictionary maybe
         match ordinal_string.lower():
             case 'first' | '1st':
                 return 1
@@ -51,7 +58,6 @@ class DateParser:
             case 'fifth' | '5th':
                 # Don't think is used but you never know
                 return 5
-            # Thankfully 'last' is never used
             
     def __get_day_number_from_sequence(self, month_sequence: int, day_name: str, day_sequence: int) -> int:
         # Given 1 (to represent January), 'Friday' and 1, this will return the day number of the first
@@ -65,7 +71,7 @@ class DateParser:
         # List around these tuples is each week
         # List around these lists is the whole month.
 
-        day_index = list(calendar.day_name).index(day_name)
+        day_index = DAY_NAMES.index(day_name)
 
         # loop through every tuple in month_days until we find the day_sequence'th entry where tuple[1] == day_index,
         # ensuring that tuple[0] is not 0
@@ -86,22 +92,71 @@ class DateParser:
 
         return day_number
 
+    def __get_previous_ordinal(self, ordinal_string: str) -> str:
+        # TODO This and the other match statement are similar, could be made into a const dictionary maybe
+        match ordinal_string.lower():
+            case 'first' | '1st':
+                raise ValueError('Can\'t get previous value before \'first\'')
+            case 'second' | '2nd':
+                return 'first'
+            case 'third' | '3rd':
+                return 'second'
+            case 'fourth' | '4th':
+                return 'third'
+            case 'fifth' | '5th':
+                # Don't think is used but you never know
+                return 'fourth'
 
     def __parse_date_to_string(self, date_string) -> datetime:
-        # There are three possible formats: 'January 1', 'second Saturday in May', '1st Saturday in June'
-        # Each one can be uniquely determined
+        # There are five possible formats: 
+        # 1. 'January 1'
+        # 2. 'second Saturday in May'
+        # 3. '1st Saturday in June' --> structurally the same as above, just swap 1st for 'first' etc
+        # 4. 'Labour Day' --> can be swapped with 'first Monday in September'
+        # 5. 'Friday before second Saturday in May'
+        # It is also possible to have 'the' prefix i.e. 'the second Sat...'
+
+        if date_string.lower() == LABOUR_DAY:
+            date_string = 'first Monday in September'
+
         date_string_split = date_string.split(' ')
-        
-        if any(date_string.startswith(month) for month in calendar.month_name[1:13]):
+
+        if 'the' in date_string_split:
+            date_string_split.remove('the')
+
+        if 'before' in date_string_split:
+            first_day = date_string_split[0]
+            second_day = date_string_split[3]
+            ordinal_string = date_string_split[2]
+
+            # nuke the first two elements in the array, we no longer care about 'Friday before'
+            date_string_split = date_string_split[2:]
+                
+            # if the first day is BEFORE the second day: i.e. 'Friday before xth Saturday in ...'
+            # we can simply change the text to 'xth Friday in...'
+            if DAY_NAMES.index(first_day) < DAY_NAMES.index(second_day):
+                #replace the second day with first day
+                date_string_split[1] = first_day
+                pass
+            else:
+                # otherwise if it's after: i.e. 'Saturday before third Friday in ...'
+                # we need to decrement 'third' to 'secondfourth'. The Sat before the 3rd Friday is the 2nd Sat. 
+                date_string_split[0] = self.__get_previous_ordinal(ordinal_string)
+                date_string_split[1] = first_day
+
+
+        # Check all formats
+        if any(date_string.startswith(month) for month in MONTH_NAMES[1:13]):
             # 'January 1'
-            date_month = list(calendar.month_name).index(date_string_split[0])
+            date_month = MONTH_NAMES.index(date_string_split[0])
             date_day = int(date_string_split[1])
         else:
             # 'second Saturday in May' or '1st Saturday in June'
             # These two are almost the same, second vs 2nd, first vs 1st can be handled 
-            date_month = list(calendar.month_name).index(date_string_split[-1])
+            date_month = MONTH_NAMES.index(date_string_split[-1])
 
             ordinal_string = date_string_split[0]
+
             day_sequence_in_month = self.__get_number_from_ordinal_string(ordinal_string)
             day_name = date_string_split[1]
 
@@ -109,4 +164,3 @@ class DateParser:
             date_day = self.__get_day_number_from_sequence(date_month, day_name, day_sequence_in_month)
 
         return datetime(self.CURRENT_YEAR, date_month, date_day)
-

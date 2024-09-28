@@ -11,6 +11,5 @@ The other half will be a Web interface which makes searching/filtering easy, bas
 
 
 ### Todo
-- Write text to JSON 
 - Clean up code/comments
 - Web interface

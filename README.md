@@ -7,7 +7,7 @@ Season limits are listed on the website in one of many formats, with no rhyme or
 - 'Labour Day'
 - 'January 1 to March 1'
 - 'third Saturday in June to December 15'
-- 'Friday before third Saturday in June to December 15'
+- 'Friday before third Saturday in June to second Saturday in November'
 
 In addition, some have two separate limits, i.e. 'January 1 to March 1 and third Saturday in June to December 15'.
 

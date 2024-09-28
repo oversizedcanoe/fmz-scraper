@@ -1,7 +1,17 @@
 # fmz_scraper
-The Ontario Fisheries Management Zone (FMZ) website ([link](https://www.ontario.ca/page/ontario-fishery-regulations-variation-orders)) contains information regarding fishing zones in Ontario, Canada. A key part of this information is when fishing seasons are 'open'. 'Open' season means it is legal to target a certain species of fish.
+The Ontario Fisheries Management Zone (FMZ) [website](https://www.ontario.ca/page/ontario-fishery-regulations-variation-orders) contains information regarding fishing zones in Ontario, Canada. A key part of this information is when fishing seasons are 'open'. 'Open' season means it is legal to target a certain species of fish.
 
-Some fish species are open year round, and some are closed all year. Some have "easy to read" limits like "January 1 to March 1". However, most species which I target have limits which are less straightforward, such as "third Saturday in June to December 15" or "Friday before fourth Saturday in April to third Friday in November". When you combine 3-4 of these limits (as on any given body of water, there are typically 3-4 fish which can be targetted), all in different formats, it can be difficult trying to think "What can I target next weekend?". This is especially true when you live in near 2-3 different zones -- if you target Bass, Pike, Walleye, and Muskie (one can dream), and live near 3 different zones, this can be 12 different date ranges to keep track of, each formatted differently.
+Season limits are listed on the website in one of many formats, with no rhyme or reason as to when one is used over another:
+- 'Open all year'
+- 'Closed all year'
+- 'Labour Day'
+- 'January 1 to March 1'
+- 'third Saturday in June to December 15'
+- 'Friday before third Saturday in June to December 15'
+
+In addition, some have two separate limits, i.e. 'January 1 to March 1 and third Saturday in June to December 15'.
+
+If you are targeting 3-4 species of fish, and live near 3 different zones, this can be 12 or more date ranges to keep track of.
 
 ````fmz_scraper```` is a tool to help with improve this.
 

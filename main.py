@@ -1,5 +1,5 @@
 from fish_limit import FishLimit
-from date_parser import parse_seasons
+from date_parser import DateParser
 from zone_limit import ZoneLimit
 import fmz_scraper
 
@@ -7,6 +7,8 @@ ZONE_QUANTITY = 20
 
 def get_zone_limits() -> list[ZoneLimit]:
     zone_limits: list[ZoneLimit] = []
+
+    date_parser = DateParser()
 
     for zone_number in range (1, ZONE_QUANTITY + 1):
         # TESTING for now
@@ -25,7 +27,7 @@ def get_zone_limits() -> list[ZoneLimit]:
                 continue
             elif "Season:" in text:
                 fish_limit.season_unformatted = text.removeprefix("Season: ").strip()
-                fish_limit.limits = parse_seasons(fish_limit.season_unformatted)
+                fish_limit.limits = date_parser.parse_unformatted_season(fish_limit.season_unformatted)
                 # Parse the unformatted into proper ranges
                 fish_limits.append(fish_limit)
                 fish_limit = FishLimit()

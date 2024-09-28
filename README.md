@@ -10,8 +10,8 @@ Half of it is a Python script which uses [Selenium](https://www.selenium.dev/) t
 The other half will be a Web interface which makes searching/filtering easy, based on which Zones and species you care about.
 
 ### Output
-Output will be stored for each year in [/output]('output').
-- [2024 data]('output/2024.json')
+Output will be stored for each year in [/output](/output).
+- [2024 data](/output/2024.json)
 
 ### Todo
 - Clean up code/comments

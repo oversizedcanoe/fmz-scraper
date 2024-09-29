@@ -1,5 +1,5 @@
 from datetime import datetime
-from limit_range import LimitRange
+from models.range_limit import RangeLimit
 import calendar
 
 CLOSED_ALL_YEAR = 'closed all year'
@@ -14,14 +14,14 @@ class DateParser:
         self.CURRENT_YEAR = datetime.now().year
         
         
-    def parse_unformatted_season(self, season_unformatted: str) -> list[LimitRange]:
-        limit_ranges: list[LimitRange] = []
+    def parse_unformatted_season(self, season_unformatted: str) -> list[RangeLimit]:
+        limit_ranges: list[RangeLimit] = []
         if season_unformatted.lower() == CLOSED_ALL_YEAR:
             return limit_ranges
         elif season_unformatted.lower() == OPEN_ALL_YEAR:
             start = datetime(self.CURRENT_YEAR, 1, 1, 0, 0, 0)
             end = datetime(self.CURRENT_YEAR, 12, 31, 0, 0, 0)
-            limit_range = LimitRange(start, end)
+            limit_range = RangeLimit(start, end)
             limit_ranges.append(limit_range)
             return limit_ranges
         
@@ -39,7 +39,7 @@ class DateParser:
             start_date = self.__parse_date_to_string(start_string)
             end_date = self.__parse_date_to_string(end_string)
             
-            limit_range = LimitRange(start_date, end_date)
+            limit_range = RangeLimit(start_date, end_date)
             limit_ranges.append(limit_range)
         return limit_ranges
 

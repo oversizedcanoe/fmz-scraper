@@ -1,9 +1,9 @@
-from fish_limit import FishLimit
-from date_parser import DateParser
-from zone_limit import ZoneLimit
-import fmz_scraper
+from models.fish_limit import FishLimit
+from scraper.date_parser import DateParser
+from models.zone_limit import ZoneLimit
 import jsons
 import sys
+import scraper.fmz_scraper as fmz_scraper
 
 ZONE_QUANTITY = 20
 date_parser = DateParser()

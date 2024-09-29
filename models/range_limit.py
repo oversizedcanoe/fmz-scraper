@@ -1,6 +1,6 @@
 from datetime import datetime
 
-class LimitRange:
+class RangeLimit:
     def __init__(self, start: datetime, end: datetime) -> None:
         self.start = start
         self.end = end

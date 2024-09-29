@@ -19,10 +19,41 @@ Half of it is a Python script which uses [Selenium](https://www.selenium.dev/) t
 
 The other half will be a Web interface which makes searching/filtering easy, based on which Zones and species you care about.
 
-### Output
+## Output
 Output will be stored for each year in [/output](/output).
 - [2024 data](/output/2024.json)
 
+## Usage
+### Scraper
+To run the scraper and generate the output locally, clone or download the repo and open a terminal in the ````fmz_scraper```` directory. In order to manage dependencies properly I suggest creating a virtual environement. In a terminal: 
+````
+python -m venv venv
+.\venv\Scripts\activate
+````
+After optionally doing this, install the required dependencies and run [scrape.py](scrape.py).
+````
+pip install requirements.txt
+python scrape.py
+````
+Optionally additional command line arguements can be provided to limit which zones are scraped.
+````
+# only gets zone 5
+python scrape.py 5
+
+# only gets zones 10 and 14
+python scrape.py 10 14
+````
+After running [scrape.py](scrape.py), the output will be added to the [/output](/output) folder. The file name defaults to the current year, and will overwrite existing files.
+
+
+### Web
+TBD
+
+
 ### Todo
-- Clean up code/comments
 - Web interface
+- Clean up code/comments: There are a lot of things that could be improved. 
+    - Some files were made into classes when they probably don't need to be, and vice versa.
+    - There are performance improvements that could be made -- for example if we've already determined what the exact date of "Friday before second Saturday in June" is, we can store it in a dictionary and re-use it for other species.
+    - I added a lot of (probably too many) comments for future me, but I could probably add method comments to.
+- But... this doesn't need to be fast or efficient. It's a script I wrote intended to be run once a year, for fun. It's (IMO) readable, and fast enough. Premature optimization is a curse :)

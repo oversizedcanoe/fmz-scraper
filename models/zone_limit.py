@@ -1,4 +1,4 @@
-from fish_limit import FishLimit
+from models.fish_limit import FishLimit
 
 class ZoneLimit:
     def __init__(self, zone_number):

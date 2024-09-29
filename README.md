@@ -47,7 +47,15 @@ After running [scrape.py](scrape.py), the output will be added to the [/output](
 
 
 ### Web
-TBD
+````
+flask --app serve run 
+
+# append this to command to expose on local network
+--host 0.0.0.0
+
+# append this to enable debug mode (supports hot reload)
+--debug
+````
 
 
 ### Todo

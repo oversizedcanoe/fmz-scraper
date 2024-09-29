@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>fmz_scraper</title>
+</head>
+<body>
+    <h1>FMZ Limits</h1>
+
+    <p>Some warning about double checking everything with the official website in case this is wrong...</p>
+
+    <hr/>
+
+    <table>
+        <thead>
+            <tr>
+                <td>Zone Number</td>
+                <td>Fish Species</td>
+                <td>Season(s)</td>
+                <td>Season (Unformatted)</td>
+            </tr>
+        </thead>
+        <tbody>
+
+            {% for zone_limit in zone_limits %}
+                {% for fish_limit in zone_limit.fish_limits %}
+                    <tr>
+                        <td>{{ zone_limit.zone_number }}</td>
+                        <td>{{ fish_limit.species }}</td>
+                        <td>
+                                {% for range_limit in fish_limit.limits %}
+                                    <p>{{ range_limit.start_string }} → {{range_limit.end_string}}</p>
+                                {% endfor %}
+                        </td>
+                        <td>{{ fish_limit.season_unformatted }}</td>
+                    </tr>
+                {% endfor %}
+            {% endfor %}
+        </tbody>
+    </table>
+    
+</body>
+</html>

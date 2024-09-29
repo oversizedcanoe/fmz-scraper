@@ -4,8 +4,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "January 1 to September 30",
@@ -14,12 +16,16 @@
       {
         "limits": [
           {
-            "end": "2024-04-30T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-04-30",
+            "end_string": "30-Apr-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           },
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-07-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-07-01",
+            "start_string": "01-Jul-2024"
           }
         ],
         "season_unformatted": "January 1 to April 30 and July 1 to December 31",
@@ -28,8 +34,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "Open all year",
@@ -38,8 +46,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "Open all year",
@@ -48,8 +58,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "Open all year",
@@ -58,8 +70,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "Open all year",
@@ -68,8 +82,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "Open all year",
@@ -83,8 +99,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-02T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-09-02",
+            "end_string": "02-Sep-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "January 1 to Labour Day",
@@ -93,8 +111,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -103,12 +123,16 @@
       {
         "limits": [
           {
-            "end": "2024-04-30T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-04-30",
+            "end_string": "30-Apr-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           },
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-07-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-07-01",
+            "start_string": "01-Jul-2024"
           }
         ],
         "season_unformatted": "January 1 to April 30 and July 1 to December 31",
@@ -117,8 +141,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "January 1 to September 30",
@@ -127,8 +153,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -137,8 +165,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -147,8 +177,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-15T00:00:00+00:00",
-            "start": "2024-06-15T00:00:00+00:00"
+            "end_date": "2024-12-15",
+            "end_string": "15-Dec-2024",
+            "start_date": "2024-06-15",
+            "start_string": "15-Jun-2024"
           }
         ],
         "season_unformatted": "third Saturday in June to December 15",
@@ -157,8 +189,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -167,8 +201,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -177,8 +213,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -187,8 +225,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -197,12 +237,16 @@
       {
         "limits": [
           {
-            "end": "2024-04-14T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-04-14",
+            "end_string": "14-Apr-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           },
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-05-18T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-05-18",
+            "start_string": "18-May-2024"
           }
         ],
         "season_unformatted": "January 1 to April 14 and third Saturday in May to December 31",
@@ -211,8 +255,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -226,8 +272,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-15T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-09-15",
+            "end_string": "15-Sep-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "January 1 to September 15",
@@ -236,12 +284,16 @@
       {
         "limits": [
           {
-            "end": "2024-04-15T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-04-15",
+            "end_string": "15-Apr-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           },
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-07-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-07-01",
+            "start_string": "01-Jul-2024"
           }
         ],
         "season_unformatted": "January 1 to April 15 and July 1 to December 31",
@@ -250,8 +302,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "January 1 to September 30",
@@ -260,8 +314,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -270,8 +326,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -280,8 +338,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -290,8 +350,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -300,8 +362,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -310,12 +374,16 @@
       {
         "limits": [
           {
-            "end": "2024-04-14T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-04-14",
+            "end_string": "14-Apr-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           },
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-05-18T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-05-18",
+            "start_string": "18-May-2024"
           }
         ],
         "season_unformatted": "January 1 to April 14 and third Saturday in May to December 31",
@@ -324,8 +392,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -339,8 +409,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-02T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-09-02",
+            "end_string": "02-Sep-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "January 1 to Labour Day",
@@ -349,8 +421,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -364,8 +438,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "January 1 to September 30",
@@ -374,8 +450,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -384,8 +462,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -394,8 +474,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-15T00:00:00+00:00",
-            "start": "2024-06-15T00:00:00+00:00"
+            "end_date": "2024-12-15",
+            "end_string": "15-Dec-2024",
+            "start_date": "2024-06-15",
+            "start_string": "15-Jun-2024"
           }
         ],
         "season_unformatted": "third Saturday in June to December 15",
@@ -404,8 +486,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -414,8 +498,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -424,8 +510,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -434,8 +522,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -444,12 +534,16 @@
       {
         "limits": [
           {
-            "end": "2024-04-14T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-04-14",
+            "end_string": "14-Apr-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           },
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-05-18T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-05-18",
+            "start_string": "18-May-2024"
           }
         ],
         "season_unformatted": "January 1 to April 14 and third Saturday in May to December 31",
@@ -458,8 +552,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -473,8 +569,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -483,8 +581,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -493,8 +593,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -508,8 +610,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "January 1 to September 30",
@@ -518,8 +622,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -528,8 +634,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -538,8 +646,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-15T00:00:00+00:00",
-            "start": "2024-06-15T00:00:00+00:00"
+            "end_date": "2024-12-15",
+            "end_string": "15-Dec-2024",
+            "start_date": "2024-06-15",
+            "start_string": "15-Jun-2024"
           }
         ],
         "season_unformatted": "third Saturday in June to December 15",
@@ -548,8 +658,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -558,8 +670,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -568,8 +682,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -578,8 +694,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -588,12 +706,16 @@
       {
         "limits": [
           {
-            "end": "2024-04-14T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-04-14",
+            "end_string": "14-Apr-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           },
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-05-18T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-05-18",
+            "start_string": "18-May-2024"
           }
         ],
         "season_unformatted": "January 1 to April 14 and third Saturday in May to December 31",
@@ -602,8 +724,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -617,8 +741,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -627,8 +753,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-02T00:00:00+00:00",
-            "start": "2024-04-27T00:00:00+00:00"
+            "end_date": "2024-09-02",
+            "end_string": "02-Sep-2024",
+            "start_date": "2024-04-27",
+            "start_string": "27-Apr-2024"
           }
         ],
         "season_unformatted": "fourth Saturday in April to Labour Day",
@@ -637,8 +765,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -647,8 +777,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -657,8 +789,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -672,8 +806,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "January 1 to September 30",
@@ -682,8 +818,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -692,8 +830,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -702,8 +842,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-15T00:00:00+00:00",
-            "start": "2024-06-15T00:00:00+00:00"
+            "end_date": "2024-12-15",
+            "end_string": "15-Dec-2024",
+            "start_date": "2024-06-15",
+            "start_string": "15-Jun-2024"
           }
         ],
         "season_unformatted": "third Saturday in June to December 15",
@@ -712,8 +854,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -722,8 +866,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -732,8 +878,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -742,8 +890,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -752,8 +902,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -762,12 +914,16 @@
       {
         "limits": [
           {
-            "end": "2024-04-14T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-04-14",
+            "end_string": "14-Apr-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           },
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-05-18T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-05-18",
+            "start_string": "18-May-2024"
           }
         ],
         "season_unformatted": "January 1 to April 14 and third Saturday in May to December 31",
@@ -776,8 +932,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -791,8 +949,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -801,8 +961,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-02T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-09-02",
+            "end_string": "02-Sep-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "January 1 to Labour Day",
@@ -811,8 +973,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -826,8 +990,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "January 1 to September 30",
@@ -836,8 +1002,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -846,8 +1014,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -856,8 +1026,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -866,8 +1038,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -876,8 +1050,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -886,8 +1062,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -896,8 +1074,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -906,12 +1086,16 @@
       {
         "limits": [
           {
-            "end": "2024-04-14T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-04-14",
+            "end_string": "14-Apr-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           },
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-05-18T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-05-18",
+            "start_string": "18-May-2024"
           }
         ],
         "season_unformatted": "January 1 to April 14 and third Saturday in May to December 31",
@@ -920,8 +1104,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -935,8 +1121,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-15T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-09-15",
+            "end_string": "15-Sep-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "January 1 to September 15",
@@ -945,12 +1133,16 @@
       {
         "limits": [
           {
-            "end": "2024-04-30T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-04-30",
+            "end_string": "30-Apr-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           },
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-07-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-07-01",
+            "start_string": "01-Jul-2024"
           }
         ],
         "season_unformatted": "January 1 to April 30 and July 1 to December 31",
@@ -959,12 +1151,16 @@
       {
         "limits": [
           {
-            "end": "2024-03-15T00:00:00+00:00",
-            "start": "2024-02-15T00:00:00+00:00"
+            "end_date": "2024-03-15",
+            "end_string": "15-Mar-2024",
+            "start_date": "2024-02-15",
+            "start_string": "15-Feb-2024"
           },
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-05-18T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-05-18",
+            "start_string": "18-May-2024"
           }
         ],
         "season_unformatted": "February 15 to March 15 and third Saturday in May to September 30",
@@ -973,8 +1169,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -983,8 +1181,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -993,8 +1193,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1003,8 +1205,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1013,8 +1217,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1023,8 +1229,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1033,12 +1241,16 @@
       {
         "limits": [
           {
-            "end": "2024-04-14T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-04-14",
+            "end_string": "14-Apr-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           },
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-05-18T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-05-18",
+            "start_string": "18-May-2024"
           }
         ],
         "season_unformatted": "January 1 to April 14 and third Saturday in May to December 31",
@@ -1047,8 +1259,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1062,8 +1276,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1072,8 +1288,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-02T00:00:00+00:00",
-            "start": "2024-04-27T00:00:00+00:00"
+            "end_date": "2024-09-02",
+            "end_string": "02-Sep-2024",
+            "start_date": "2024-04-27",
+            "start_string": "27-Apr-2024"
           }
         ],
         "season_unformatted": "fourth Saturday in April to Labour Day",
@@ -1082,8 +1300,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1092,8 +1312,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1102,8 +1324,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1117,8 +1341,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "January 1 to September 30",
@@ -1127,8 +1353,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1137,8 +1365,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1147,8 +1377,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-15T00:00:00+00:00",
-            "start": "2024-06-15T00:00:00+00:00"
+            "end_date": "2024-12-15",
+            "end_string": "15-Dec-2024",
+            "start_date": "2024-06-15",
+            "start_string": "15-Jun-2024"
           }
         ],
         "season_unformatted": "third Saturday in June to December 15",
@@ -1157,8 +1389,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1167,8 +1401,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1177,8 +1413,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1187,8 +1425,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "January 1 to September 30",
@@ -1197,8 +1437,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1207,12 +1449,16 @@
       {
         "limits": [
           {
-            "end": "2024-04-14T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-04-14",
+            "end_string": "14-Apr-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           },
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-05-18T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-05-18",
+            "start_string": "18-May-2024"
           }
         ],
         "season_unformatted": "January 1 to April 14 and third Saturday in May to December 31",
@@ -1221,8 +1467,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1236,8 +1484,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "January 1 to September 30",
@@ -1246,8 +1496,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "January 1 to September 30",
@@ -1256,8 +1508,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1266,8 +1520,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1276,8 +1532,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1291,8 +1549,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-02T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-09-02",
+            "end_string": "02-Sep-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "January 1 to Labour Day",
@@ -1301,8 +1561,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1311,8 +1573,10 @@
       {
         "limits": [
           {
-            "end": "2024-11-30T00:00:00+00:00",
-            "start": "2024-06-15T00:00:00+00:00"
+            "end_date": "2024-11-30",
+            "end_string": "30-Nov-2024",
+            "start_date": "2024-06-15",
+            "start_string": "15-Jun-2024"
           }
         ],
         "season_unformatted": "third Saturday in June to November 30",
@@ -1321,8 +1585,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-15T00:00:00+00:00",
-            "start": "2024-06-15T00:00:00+00:00"
+            "end_date": "2024-12-15",
+            "end_string": "15-Dec-2024",
+            "start_date": "2024-06-15",
+            "start_string": "15-Jun-2024"
           }
         ],
         "season_unformatted": "third Saturday in June to December 15",
@@ -1331,8 +1597,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1341,8 +1609,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1351,8 +1621,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1361,8 +1633,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1371,8 +1645,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1381,12 +1657,16 @@
       {
         "limits": [
           {
-            "end": "2024-03-17T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-03-17",
+            "end_string": "17-Mar-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           },
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-05-18T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-05-18",
+            "start_string": "18-May-2024"
           }
         ],
         "season_unformatted": "January 1 to the third Sunday in March and third Saturday in May to December 31",
@@ -1395,8 +1675,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1415,8 +1697,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-02-15T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-02-15",
+            "start_string": "15-Feb-2024"
           }
         ],
         "season_unformatted": "February 15 to September 30",
@@ -1425,8 +1709,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-04-27T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-04-27",
+            "start_string": "27-Apr-2024"
           }
         ],
         "season_unformatted": "fourth Saturday in April to September 30",
@@ -1435,8 +1721,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1445,8 +1733,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1460,12 +1750,16 @@
       {
         "limits": [
           {
-            "end": "2024-03-17T00:00:00+00:00",
-            "start": "2024-02-15T00:00:00+00:00"
+            "end_date": "2024-03-17",
+            "end_string": "17-Mar-2024",
+            "start_date": "2024-02-15",
+            "start_string": "15-Feb-2024"
           },
           {
-            "end": "2024-09-02T00:00:00+00:00",
-            "start": "2024-05-18T00:00:00+00:00"
+            "end_date": "2024-09-02",
+            "end_string": "02-Sep-2024",
+            "start_date": "2024-05-18",
+            "start_string": "18-May-2024"
           }
         ],
         "season_unformatted": "February 15 to third Sunday in March and third Saturday in May to Labour Day",
@@ -1474,8 +1768,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1484,12 +1780,16 @@
       {
         "limits": [
           {
-            "end": "2024-03-17T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-03-17",
+            "end_string": "17-Mar-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           },
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-05-18T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-05-18",
+            "start_string": "18-May-2024"
           }
         ],
         "season_unformatted": "January 1 to third Sunday in March and third Saturday in May to December 31",
@@ -1498,8 +1798,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-15T00:00:00+00:00",
-            "start": "2024-06-15T00:00:00+00:00"
+            "end_date": "2024-12-15",
+            "end_string": "15-Dec-2024",
+            "start_date": "2024-06-15",
+            "start_string": "15-Jun-2024"
           }
         ],
         "season_unformatted": "third Saturday in June to December 15",
@@ -1508,12 +1810,16 @@
       {
         "limits": [
           {
-            "end": "2024-03-17T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-03-17",
+            "end_string": "17-Mar-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           },
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-05-18T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-05-18",
+            "start_string": "18-May-2024"
           }
         ],
         "season_unformatted": "January 1 to third Sunday in March and third Saturday in May to December 31",
@@ -1522,8 +1828,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1532,8 +1840,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1542,8 +1852,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1552,8 +1864,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1562,12 +1876,16 @@
       {
         "limits": [
           {
-            "end": "2024-03-17T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-03-17",
+            "end_string": "17-Mar-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           },
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-05-18T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-05-18",
+            "start_string": "18-May-2024"
           }
         ],
         "season_unformatted": "January 1 to third Sunday in March and third Saturday in May to December 31",
@@ -1576,8 +1894,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1591,8 +1911,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-04-26T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-04-26",
+            "start_string": "26-Apr-2024"
           }
         ],
         "season_unformatted": "Friday before fourth Saturday in April to September 30",
@@ -1601,8 +1923,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-04-26T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-04-26",
+            "start_string": "26-Apr-2024"
           }
         ],
         "season_unformatted": "Friday before fourth Saturday in April to September 30",
@@ -1611,8 +1935,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-04-26T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-04-26",
+            "start_string": "26-Apr-2024"
           }
         ],
         "season_unformatted": "Friday before fourth Saturday in April to September 30",
@@ -1621,8 +1947,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1631,8 +1959,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1646,8 +1976,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-04-26T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-04-26",
+            "start_string": "26-Apr-2024"
           }
         ],
         "season_unformatted": "Friday before fourth Saturday in April to September 30",
@@ -1656,8 +1988,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1666,8 +2000,10 @@
       {
         "limits": [
           {
-            "end": "2024-11-30T00:00:00+00:00",
-            "start": "2024-06-28T00:00:00+00:00"
+            "end_date": "2024-11-30",
+            "end_string": "30-Nov-2024",
+            "start_date": "2024-06-28",
+            "start_string": "28-Jun-2024"
           }
         ],
         "season_unformatted": "Friday before fourth Saturday in June to November 30",
@@ -1676,8 +2012,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-15T00:00:00+00:00",
-            "start": "2024-06-21T00:00:00+00:00"
+            "end_date": "2024-12-15",
+            "end_string": "15-Dec-2024",
+            "start_date": "2024-06-21",
+            "start_string": "21-Jun-2024"
           }
         ],
         "season_unformatted": "Friday before third Saturday in June to December 15",
@@ -1686,12 +2024,16 @@
       {
         "limits": [
           {
-            "end": "2024-03-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-03-31",
+            "end_string": "31-Mar-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           },
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-05-17T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-05-17",
+            "start_string": "17-May-2024"
           }
         ],
         "season_unformatted": "January 1 to March 31 and Friday before third Saturday in May to December 31",
@@ -1700,8 +2042,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1710,12 +2054,16 @@
       {
         "limits": [
           {
-            "end": "2024-03-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-03-31",
+            "end_string": "31-Mar-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           },
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-05-17T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-05-17",
+            "start_string": "17-May-2024"
           }
         ],
         "season_unformatted": "January 1 to March 31 and Friday before third Saturday in May to December 31",
@@ -1724,8 +2072,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1739,8 +2089,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1749,8 +2101,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1759,8 +2113,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1769,8 +2125,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1784,12 +2142,16 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           },
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-12-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-12-01",
+            "start_string": "01-Dec-2024"
           }
         ],
         "season_unformatted": "January 1 to September 30 and December 1 to December 31",
@@ -1798,8 +2160,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1808,8 +2172,10 @@
       {
         "limits": [
           {
-            "end": "2024-11-30T00:00:00+00:00",
-            "start": "2024-06-22T00:00:00+00:00"
+            "end_date": "2024-11-30",
+            "end_string": "30-Nov-2024",
+            "start_date": "2024-06-22",
+            "start_string": "22-Jun-2024"
           }
         ],
         "season_unformatted": "fourth Saturday in June to November 30",
@@ -1818,8 +2184,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-15T00:00:00+00:00",
-            "start": "2024-06-15T00:00:00+00:00"
+            "end_date": "2024-12-15",
+            "end_string": "15-Dec-2024",
+            "start_date": "2024-06-15",
+            "start_string": "15-Jun-2024"
           }
         ],
         "season_unformatted": "third Saturday in June to December 15",
@@ -1828,8 +2196,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1838,8 +2208,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1848,8 +2220,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1858,8 +2232,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1868,8 +2244,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1878,8 +2256,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1893,8 +2273,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1903,8 +2285,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1913,8 +2297,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1923,8 +2309,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1933,8 +2321,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1948,12 +2338,16 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           },
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-12-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-12-01",
+            "start_string": "01-Dec-2024"
           }
         ],
         "season_unformatted": "January 1 to September 30 and December 1 to December 31",
@@ -1962,8 +2356,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -1972,8 +2368,10 @@
       {
         "limits": [
           {
-            "end": "2024-11-30T00:00:00+00:00",
-            "start": "2024-06-22T00:00:00+00:00"
+            "end_date": "2024-11-30",
+            "end_string": "30-Nov-2024",
+            "start_date": "2024-06-22",
+            "start_string": "22-Jun-2024"
           }
         ],
         "season_unformatted": "fourth Saturday in June to November 30",
@@ -1982,8 +2380,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-15T00:00:00+00:00",
-            "start": "2024-06-15T00:00:00+00:00"
+            "end_date": "2024-12-15",
+            "end_string": "15-Dec-2024",
+            "start_date": "2024-06-15",
+            "start_string": "15-Jun-2024"
           }
         ],
         "season_unformatted": "third Saturday in June to December 15",
@@ -1992,12 +2392,16 @@
       {
         "limits": [
           {
-            "end": "2024-03-01T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-03-01",
+            "end_string": "01-Mar-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           },
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-05-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-05-01",
+            "start_string": "01-May-2024"
           }
         ],
         "season_unformatted": "January 1 to March 1 and May 1 to December 31",
@@ -2006,8 +2410,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2016,8 +2422,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2026,8 +2434,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2036,12 +2446,16 @@
       {
         "limits": [
           {
-            "end": "2024-03-01T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-03-01",
+            "end_string": "01-Mar-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           },
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-05-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-05-01",
+            "start_string": "01-May-2024"
           }
         ],
         "season_unformatted": "January 1 to March 1 and May 1 to December 31",
@@ -2050,8 +2464,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2070,8 +2486,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "January 1 to September 30",
@@ -2080,8 +2498,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2090,8 +2510,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2100,8 +2522,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2115,8 +2539,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "January 1 to September 30",
@@ -2125,8 +2551,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2135,8 +2563,10 @@
       {
         "limits": [
           {
-            "end": "2024-11-30T00:00:00+00:00",
-            "start": "2024-06-22T00:00:00+00:00"
+            "end_date": "2024-11-30",
+            "end_string": "30-Nov-2024",
+            "start_date": "2024-06-22",
+            "start_string": "22-Jun-2024"
           }
         ],
         "season_unformatted": "fourth Saturday in June to November 30",
@@ -2145,8 +2575,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-15T00:00:00+00:00",
-            "start": "2024-06-01T00:00:00+00:00"
+            "end_date": "2024-12-15",
+            "end_string": "15-Dec-2024",
+            "start_date": "2024-06-01",
+            "start_string": "01-Jun-2024"
           }
         ],
         "season_unformatted": "1st Saturday in June to December 15",
@@ -2155,12 +2587,16 @@
       {
         "limits": [
           {
-            "end": "2024-03-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-03-31",
+            "end_string": "31-Mar-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           },
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-05-18T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-05-18",
+            "start_string": "18-May-2024"
           }
         ],
         "season_unformatted": "January 1 to March 31 and third Saturday in May to December 31",
@@ -2169,8 +2605,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2179,8 +2617,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2189,8 +2629,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2199,8 +2641,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2209,12 +2653,16 @@
       {
         "limits": [
           {
-            "end": "2024-03-15T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-03-15",
+            "end_string": "15-Mar-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           },
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-05-18T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-05-18",
+            "start_string": "18-May-2024"
           }
         ],
         "season_unformatted": "January 1 to March 15 and third Saturday in May to December 31",
@@ -2223,8 +2671,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2238,8 +2688,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-04-27T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-04-27",
+            "start_string": "27-Apr-2024"
           }
         ],
         "season_unformatted": "fourth Saturday in April to September 30",
@@ -2248,8 +2700,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-04-27T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-04-27",
+            "start_string": "27-Apr-2024"
           }
         ],
         "season_unformatted": "fourth Saturday in April to September 30",
@@ -2258,8 +2712,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-04-27T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-04-27",
+            "start_string": "27-Apr-2024"
           }
         ],
         "season_unformatted": "fourth Saturday in April to September 30",
@@ -2268,8 +2724,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2278,8 +2736,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2293,8 +2753,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "January 1 to September 30",
@@ -2303,8 +2765,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2313,8 +2777,10 @@
       {
         "limits": [
           {
-            "end": "2024-11-30T00:00:00+00:00",
-            "start": "2024-06-22T00:00:00+00:00"
+            "end_date": "2024-11-30",
+            "end_string": "30-Nov-2024",
+            "start_date": "2024-06-22",
+            "start_string": "22-Jun-2024"
           }
         ],
         "season_unformatted": "fourth Saturday in June to November 30",
@@ -2323,8 +2789,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-15T00:00:00+00:00",
-            "start": "2024-06-01T00:00:00+00:00"
+            "end_date": "2024-12-15",
+            "end_string": "15-Dec-2024",
+            "start_date": "2024-06-01",
+            "start_string": "01-Jun-2024"
           }
         ],
         "season_unformatted": "first Saturday in June to December 15",
@@ -2333,12 +2801,16 @@
       {
         "limits": [
           {
-            "end": "2024-03-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-03-31",
+            "end_string": "31-Mar-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           },
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-05-11T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-05-11",
+            "start_string": "11-May-2024"
           }
         ],
         "season_unformatted": "January 1 to March 31 and second Saturday in May to December 31",
@@ -2347,8 +2819,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-04-27T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-04-27",
+            "start_string": "27-Apr-2024"
           }
         ],
         "season_unformatted": "fourth Saturday in April to September 30",
@@ -2357,8 +2831,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-04-27T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-04-27",
+            "start_string": "27-Apr-2024"
           }
         ],
         "season_unformatted": "fourth Saturday in April to September 30",
@@ -2367,8 +2843,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2377,8 +2855,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2387,12 +2867,16 @@
       {
         "limits": [
           {
-            "end": "2024-03-15T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-03-15",
+            "end_string": "15-Mar-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           },
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-05-11T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-05-11",
+            "start_string": "11-May-2024"
           }
         ],
         "season_unformatted": "January 1 to March 15 and second Saturday in May to December 31",
@@ -2401,8 +2885,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2416,8 +2902,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-04-27T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-04-27",
+            "start_string": "27-Apr-2024"
           }
         ],
         "season_unformatted": "fourth Saturday in April to September 30",
@@ -2426,8 +2914,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-04-27T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-04-27",
+            "start_string": "27-Apr-2024"
           }
         ],
         "season_unformatted": "fourth Saturday in April to September 30",
@@ -2436,8 +2926,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-04-27T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-04-27",
+            "start_string": "27-Apr-2024"
           }
         ],
         "season_unformatted": "fourth Saturday in April to September 30",
@@ -2446,8 +2938,10 @@
       {
         "limits": [
           {
-            "end": "2024-11-15T00:00:00+00:00",
-            "start": "2024-04-27T00:00:00+00:00"
+            "end_date": "2024-11-15",
+            "end_string": "15-Nov-2024",
+            "start_date": "2024-04-27",
+            "start_string": "27-Apr-2024"
           }
         ],
         "season_unformatted": "fourth Saturday in April to November 15",
@@ -2456,8 +2950,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2471,8 +2967,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-04-27T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-04-27",
+            "start_string": "27-Apr-2024"
           }
         ],
         "season_unformatted": "fourth Saturday in April to September 30",
@@ -2481,8 +2979,10 @@
       {
         "limits": [
           {
-            "end": "2024-11-15T00:00:00+00:00",
-            "start": "2024-04-27T00:00:00+00:00"
+            "end_date": "2024-11-15",
+            "end_string": "15-Nov-2024",
+            "start_date": "2024-04-27",
+            "start_string": "27-Apr-2024"
           }
         ],
         "season_unformatted": "fourth Saturday in April to November 15",
@@ -2491,8 +2991,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-15T00:00:00+00:00",
-            "start": "2024-06-15T00:00:00+00:00"
+            "end_date": "2024-12-15",
+            "end_string": "15-Dec-2024",
+            "start_date": "2024-06-15",
+            "start_string": "15-Jun-2024"
           }
         ],
         "season_unformatted": "third Saturday in June to December 15",
@@ -2501,8 +3003,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-15T00:00:00+00:00",
-            "start": "2024-06-01T00:00:00+00:00"
+            "end_date": "2024-12-15",
+            "end_string": "15-Dec-2024",
+            "start_date": "2024-06-01",
+            "start_string": "01-Jun-2024"
           }
         ],
         "season_unformatted": "1st Saturday in June to December 15",
@@ -2511,8 +3015,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2521,8 +3027,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-04-27T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-04-27",
+            "start_string": "27-Apr-2024"
           }
         ],
         "season_unformatted": "fourth Saturday in April to September 30",
@@ -2531,8 +3039,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-04-27T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-04-27",
+            "start_string": "27-Apr-2024"
           }
         ],
         "season_unformatted": "fourth Saturday in April to September 30",
@@ -2541,8 +3051,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2551,8 +3063,10 @@
       {
         "limits": [
           {
-            "end": "2024-11-15T00:00:00+00:00",
-            "start": "2024-05-11T00:00:00+00:00"
+            "end_date": "2024-11-15",
+            "end_string": "15-Nov-2024",
+            "start_date": "2024-05-11",
+            "start_string": "11-May-2024"
           }
         ],
         "season_unformatted": "second Saturday in May to November 15",
@@ -2561,8 +3075,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2581,8 +3097,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2591,8 +3109,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2601,8 +3121,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2611,8 +3133,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2626,8 +3150,10 @@
       {
         "limits": [
           {
-            "end": "2024-09-08T00:00:00+00:00",
-            "start": "2024-05-25T00:00:00+00:00"
+            "end_date": "2024-09-08",
+            "end_string": "08-Sep-2024",
+            "start_date": "2024-05-25",
+            "start_string": "25-May-2024"
           }
         ],
         "season_unformatted": "fourth Saturday in May to September 8",
@@ -2636,8 +3162,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2646,8 +3174,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-15T00:00:00+00:00",
-            "start": "2024-06-15T00:00:00+00:00"
+            "end_date": "2024-12-15",
+            "end_string": "15-Dec-2024",
+            "start_date": "2024-06-15",
+            "start_string": "15-Jun-2024"
           }
         ],
         "season_unformatted": "third Saturday in June to December 15",
@@ -2656,8 +3186,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-15T00:00:00+00:00",
-            "start": "2024-06-01T00:00:00+00:00"
+            "end_date": "2024-12-15",
+            "end_string": "15-Dec-2024",
+            "start_date": "2024-06-01",
+            "start_string": "01-Jun-2024"
           }
         ],
         "season_unformatted": "1st Saturday in June to December 15",
@@ -2666,12 +3198,16 @@
       {
         "limits": [
           {
-            "end": "2024-03-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-03-31",
+            "end_string": "31-Mar-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           },
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-05-11T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-05-11",
+            "start_string": "11-May-2024"
           }
         ],
         "season_unformatted": "January 1 to March 31 and second Saturday in May to December 31",
@@ -2680,8 +3216,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2690,8 +3228,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2700,8 +3240,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2710,8 +3252,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2720,12 +3264,16 @@
       {
         "limits": [
           {
-            "end": "2024-03-01T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-03-01",
+            "end_string": "01-Mar-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           },
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-05-11T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-05-11",
+            "start_string": "11-May-2024"
           }
         ],
         "season_unformatted": "January 1 to March 1 and second Saturday in May to December 31",
@@ -2734,8 +3282,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2749,8 +3299,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2759,8 +3311,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2769,8 +3323,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2779,8 +3335,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2794,12 +3352,16 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           },
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-12-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-12-01",
+            "start_string": "01-Dec-2024"
           }
         ],
         "season_unformatted": "January 1 to September 30 and December 1 to December 31",
@@ -2808,8 +3370,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2818,8 +3382,10 @@
       {
         "limits": [
           {
-            "end": "2024-11-30T00:00:00+00:00",
-            "start": "2024-06-22T00:00:00+00:00"
+            "end_date": "2024-11-30",
+            "end_string": "30-Nov-2024",
+            "start_date": "2024-06-22",
+            "start_string": "22-Jun-2024"
           }
         ],
         "season_unformatted": "fourth Saturday in June to November 30",
@@ -2828,8 +3394,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-15T00:00:00+00:00",
-            "start": "2024-06-01T00:00:00+00:00"
+            "end_date": "2024-12-15",
+            "end_string": "15-Dec-2024",
+            "start_date": "2024-06-01",
+            "start_string": "01-Jun-2024"
           }
         ],
         "season_unformatted": "first Saturday in June to December 15",
@@ -2838,8 +3406,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2848,8 +3418,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2858,8 +3430,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2868,8 +3442,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2878,8 +3454,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2888,8 +3466,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2903,8 +3483,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2913,8 +3495,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2923,8 +3507,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2933,8 +3519,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2948,12 +3536,16 @@
       {
         "limits": [
           {
-            "end": "2024-09-30T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-09-30",
+            "end_string": "30-Sep-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           },
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-12-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-12-01",
+            "start_string": "01-Dec-2024"
           }
         ],
         "season_unformatted": "January 1 to September 30 and December 1 to December 31",
@@ -2962,8 +3554,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -2972,8 +3566,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-15T00:00:00+00:00",
-            "start": "2024-06-15T00:00:00+00:00"
+            "end_date": "2024-12-15",
+            "end_string": "15-Dec-2024",
+            "start_date": "2024-06-15",
+            "start_string": "15-Jun-2024"
           }
         ],
         "season_unformatted": "third Saturday in June to December 15",
@@ -2982,12 +3578,16 @@
       {
         "limits": [
           {
-            "end": "2024-03-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-03-31",
+            "end_string": "31-Mar-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           },
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-05-04T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-05-04",
+            "start_string": "04-May-2024"
           }
         ],
         "season_unformatted": "January 1 to March 31 and first Saturday in May to December 31",
@@ -2996,8 +3596,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -3006,8 +3608,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -3016,8 +3620,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",
@@ -3026,12 +3632,16 @@
       {
         "limits": [
           {
-            "end": "2024-03-01T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-03-01",
+            "end_string": "01-Mar-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           },
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-05-04T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-05-04",
+            "start_string": "04-May-2024"
           }
         ],
         "season_unformatted": "January 1 to March 1 and first Saturday in May to December 31",
@@ -3040,8 +3650,10 @@
       {
         "limits": [
           {
-            "end": "2024-12-31T00:00:00+00:00",
-            "start": "2024-01-01T00:00:00+00:00"
+            "end_date": "2024-12-31",
+            "end_string": "31-Dec-2024",
+            "start_date": "2024-01-01",
+            "start_string": "01-Jan-2024"
           }
         ],
         "season_unformatted": "open all year",

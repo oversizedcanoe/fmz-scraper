@@ -15,7 +15,7 @@ If you are targeting 3-4 species of fish, and live near 3 different zones, this 
 
 ````fmz_scraper```` is a tool to help with improve this.
 
-Half of it is a Python script which uses [Selenium](https://www.selenium.dev/) to scrape the FMZ website and return the data as JSON, with all dates pre-formatted to handle all the different season limit ranges used on the FMZ site.
+Half of it is a Python script which uses [Selenium](https://www.selenium.dev/) to scrape the FMZ website, process the data, and output the data as JSON, with all dates pre-formatted to handle all the different season limit ranges used on the FMZ site.
 
 The other half will be a Web interface which makes searching/filtering easy, based on which Zones and species you care about.
 

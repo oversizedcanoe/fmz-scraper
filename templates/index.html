@@ -1,44 +1,99 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="dark">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="color-scheme" content="light dark">
     <title>fmz_scraper</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.jade.min.css">
+    <link rel="stylesheet" href="../static/main.css">
 </head>
 <body>
-    <h1>FMZ Limits</h1>
 
-    <p>Some warning about double checking everything with the official website in case this is wrong...</p>
+    <header>
+        <hgroup>
+            <h1>FMZ Limits</h1>
+            <h6>Less time reading, more time reeling.</h6>
+        </hgroup>
+    </header>
 
-    <hr/>
+    <main class="container">
+            <form>
+                <fieldset class="grid vertical-align">
+                    <div>
+                        <details class="dropdown mb-0">
+                            <summary>
+                            Filter Zones
+                            </summary>
+                            <ul>
+                            <li>
+                                <label>
+                                    <input type="checkbox" name="0" checked />
+                                    All zones
+                                </label>
+                            </li>
+                            {% for zone_limit in zone_limits %}
+                            <li>
+                                <label>
+                                <input type="checkbox" name="{{ zone_limit.zone_number }}" />
+                                Zone {{ zone_limit.zone_number }}
+                                </label>
+                            </li>
+                            {% endfor %}
+                            </ul>
+                        </details>
+                    </div>
+                    <div>
+                        <label for="inSeasonOnly" style="font-size: 1.2rem;">
+                            Only show in season
+                            <input id="inSeasonOnly" type="checkbox" role="switch"/>
+                        </label>
+                    </div>
+                    <div></div>
+                    <button>Reset Filter</button>
+                </fieldset>
+            </form>
+        <hr/>
+        <table>
+            <thead>
+                <tr>
+                    <th>Zone</th>
+                    <th>Fish Species</th>
+                    <th>Season(s)</th>
+                </tr>
+            </thead>
+            <tbody>
 
-    <table>
-        <thead>
-            <tr>
-                <td>Zone Number</td>
-                <td>Fish Species</td>
-                <td>Season(s)</td>
-                <td>Season (Unformatted)</td>
-            </tr>
-        </thead>
-        <tbody>
-
-            {% for zone_limit in zone_limits %}
-                {% for fish_limit in zone_limit.fish_limits %}
-                    <tr>
-                        <td>{{ zone_limit.zone_number }}</td>
-                        <td>{{ fish_limit.species }}</td>
-                        <td>
-                                {% for range_limit in fish_limit.limits %}
-                                    <p>{{ range_limit.start_string }} → {{range_limit.end_string}}</p>
-                                {% endfor %}
-                        </td>
-                        <td>{{ fish_limit.season_unformatted }}</td>
-                    </tr>
+                {% for zone_limit in zone_limits %}
+                        <tr>
+                            <td rowspan="{{ zone_limit.fish_limits | length }}" style="font-size: 1rem; text-align: center">
+                                <a href='{{ "https://www.ontario.ca/document/ontario-fishing-regulations-summary/fisheries-management-zone-" ~ zone_limit.zone_number }}' target="_blank">
+                                #{{ zone_limit.zone_number }}
+                                </a>
+                            </td>
+                            {% for fish_limit in zone_limit.fish_limits %}
+                                <td>
+                                    <span data-tooltip="{{ fish_limit.season_unformatted }}">
+                                        {{ fish_limit.species }}
+                                    </span>
+                                <td>
+                                        {% for range_limit in fish_limit.range_strings %}
+                                            <p class="mb-0" >{{ range_limit }}</p>
+                                        {% endfor %}
+                                </td>
+                        </tr>
+                    {% endfor %}
                 {% endfor %}
-            {% endfor %}
-        </tbody>
-    </table>
-    
+            </tbody>
+        </table>
+        <hr />
+        <footer>
+            <p>
+                Always double check <a href="https://www.ontario.ca/document/ontario-fishing-regulations-summary" target="_blank">the official Ontario 
+                FMZ Website</a> before going fishing to verify which Zone you are fishing in as well as related rules. This tool does not factor in exceptions 
+                for specific species and bodies of water. The author of this website holds no reliability if the data presented on this page is incorrect.
+            </p>
+        </footer>
+    </main>
 </body>
 </html>

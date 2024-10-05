@@ -17,3 +17,7 @@ footer {
 .vertical-align {
     align-items: center;
 }
+
+.hidden {
+    display: none;
+}

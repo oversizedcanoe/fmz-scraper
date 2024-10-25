@@ -24,14 +24,17 @@ function intializeDropdown() {
 
     for (let i = 0; i < zoneCheckboxes.length; i++) {
         let zoneCheckbox = zoneCheckboxes[i]
-        zoneCheckbox.addEventListener("click", function () {
-            handleZoneToggled(i, zoneCheckbox.checked)
+        zoneCheckbox.addEventListener("change", function () {
+            handleZoneToggled(i, this.checked)
         })
     }
 }
 
 function initializeInSeasonToggle() {
-
+    const toggle = document.querySelector("#inSeasonOnly")
+    toggle.addEventListener("change", function () {
+        handleInSeasonToggled(this.checked);
+    })
 }
 
 function initializeResetButton() {
@@ -94,4 +97,8 @@ function updateRowVisibility() {
             rowNumber++
         }
     }
+}
+
+function handleInSeasonToggled(onlyShowInSeason) {
+
 }

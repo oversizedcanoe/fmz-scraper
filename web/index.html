@@ -7,7 +7,7 @@
     <meta name="color-scheme" content="light dark">
     <title>fmz_scraper</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.jade.min.css">
-    <link rel="stylesheet" href="../static/main.css">
+    <link rel="stylesheet" href="./main.css">
 </head>
 
 <body>
@@ -65,27 +65,7 @@
                 </tr>
             </thead>
             <tbody>
-                {% for zone_limit in zone_limits %}
-                <tr class="zoneRow">
-                    <td rowspan="{{ zone_limit.fish_limits | length }}" style="font-size: 1rem; text-align: center">
-                        <a href='{{ "https://www.ontario.ca/document/ontario-fishing-regulations-summary/fisheries-management-zone-" ~ zone_limit.zone_number }}'
-                            target="_blank">
-                            #{{ zone_limit.zone_number }}
-                        </a>
-                    </td>
-                    {% for fish_limit in zone_limit.fish_limits %}
-                    <td>
-                        <span data-tooltip="{{ fish_limit.season_unformatted }}">
-                            {{ fish_limit.species }}
-                        </span>
-                    <td>
-                        {% for range_limit in fish_limit.range_strings %}
-                        <p class="mb-0">{{ range_limit }}</p>
-                        {% endfor %}
-                    </td>
-                </tr>
-                {% endfor %}
-                {% endfor %}
+ 
             </tbody>
         </table>
         <hr />
@@ -103,4 +83,4 @@
 </body>
 
 </html>
-<script type="text/javascript" src="../static/main.js"></script>
+<script type="text/javascript" src="script.js"></script>

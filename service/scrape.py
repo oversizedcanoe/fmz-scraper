@@ -54,7 +54,7 @@ if __name__ == '__main__':
     zone_limits: list[ZoneLimit] = get_zone_limits(zones)
     result = jsons.dumps(zone_limits, {'sort_keys': True, 'indent': 2 })
 
-    with open(f'output/{date_parser.CURRENT_YEAR}.json', "w") as file:
+    with open(f'../output/{date_parser.CURRENT_YEAR}.json', "w") as file:
         file.write(result)
     
     file.close()

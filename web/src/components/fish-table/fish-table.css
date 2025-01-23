@@ -1,12 +1,17 @@
-header{
-	background-color: var(--pico-primary-background);
+/* .dark-zone {
+	background-color:  rgb(227, 227, 227);
+}
+.light-zone {
+	background-color:  rgb(245, 245, 245);
 }
 
-h1 {
-	color: #f5f5f5
+.dark-fish {
+	background-color:  rgb(184, 255, 180);
 }
+.light-fish {
+	background-color:  rgb(211, 255, 209);
+} */
 
-p {
-	color: #dad9d9
+td {
+	text-align: center;
 }
-

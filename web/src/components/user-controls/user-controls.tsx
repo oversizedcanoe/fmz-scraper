@@ -2,10 +2,11 @@ import { useState } from 'react';
 
 interface UserControlsProps {
   onZoneChange: Function;
-  onInSeasonChange: Function
+  onInSeasonChange: Function;
+  onClearFilter: Function;
 }
 
-function UserControls({onZoneChange, onInSeasonChange}: UserControlsProps) {
+function UserControls({onZoneChange, onInSeasonChange, onClearFilter}: UserControlsProps) {
   const [showInSeasonOnly,setShowInSeasonOnly] = useState(false);
   const zoneQuantity = 20;
 
@@ -14,7 +15,6 @@ function UserControls({onZoneChange, onInSeasonChange}: UserControlsProps) {
     setShowInSeasonOnly(newValue);
     onInSeasonChange(newValue);
   }
-
 
   return (
     <form>
@@ -31,6 +31,8 @@ function UserControls({onZoneChange, onInSeasonChange}: UserControlsProps) {
         <input type="checkbox" name="notify" checked={showInSeasonOnly} onChange={() => onShowInSeasonOnlyChecked()} />
         In Season Only
       </label>
+
+      <button onClick={() => onClearFilter()} type='button'>Clear Filter</button>
     </fieldset>
   </form>
   )

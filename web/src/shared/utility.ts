@@ -1,4 +1,4 @@
-import jsonData from '../assets/2024.json';
+import jsonData from '../assets/2025.json';
 import { FishLimit, RangeLimit, ZoneLimit } from './shared';
 
 export function parseJsonToLimits(): ZoneLimit[]{
@@ -32,4 +32,9 @@ export function parseJsonToLimits(): ZoneLimit[]{
     })
 
     return zoneLimits;
+}
+
+export function formatDate(date: Date){
+    const tempDateString = date.toUTCString().split(' 00')[0]
+    return tempDateString.substring(0, tempDateString.length - 4);
 }

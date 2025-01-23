@@ -17,6 +17,10 @@ class DateParser:
     def parse_unformatted_season(self, season_unformatted: str) -> list[RangeLimit]:
         limit_ranges: list[RangeLimit] = []
         if season_unformatted.lower() == CLOSED_ALL_YEAR:
+            start = datetime(self.CURRENT_YEAR, 1, 1, 0, 0, 0)
+            end = datetime(self.CURRENT_YEAR, 1, 1, 0, 0, 0)
+            limit_range = RangeLimit(start, end)
+            limit_ranges.append(limit_range)
             return limit_ranges
         elif season_unformatted.lower() == OPEN_ALL_YEAR:
             start = datetime(self.CURRENT_YEAR, 1, 1, 0, 0, 0)

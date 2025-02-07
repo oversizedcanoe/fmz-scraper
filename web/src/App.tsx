@@ -5,6 +5,7 @@ import UserControls from './components/user-controls/user-controls'
 import { ZoneLimit } from './shared/shared';
 import { parseJsonToLimits } from './shared/utility';
 import FishTable from './components/fish-table/fish-table';
+import Footer from './components/footer/footer';
 
 function App() {
   let emptyZoneLimits: ZoneLimit[] = [];
@@ -76,7 +77,7 @@ function App() {
           <FishTable zoneLimits={filteredZoneLimits} />
         </article>
       </main>
-
+      <Footer />
     </>
   )
 }

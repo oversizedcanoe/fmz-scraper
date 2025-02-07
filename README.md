@@ -67,9 +67,8 @@ Web
 - Currently the JSON file is packaged in the dist .js file. They should be served as files/assets instead.
 - Allow user to select other other JSON files, such as the previous years.
 - Link to/allow user to access raw JSON files from github pages
-- Add github repo link to web interface 
-- Add warning about checking the website (and link to the website) to verify dates, as well as license limits
 - Allow user to select more than one item in the zone dropdown
+- Store the last selected zone/season configuration in local storage
 
 Scraper
 - Clean up code/comments: There are a lot of things that could be improved. 

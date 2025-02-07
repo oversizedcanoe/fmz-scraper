@@ -1,4 +1,10 @@
 td {
 	text-align: center;
-	font-size: 0.9rem;
+	@media (max-width: 768px) {
+		/* Small devices*/
+		font-size: 0.9rem;
+	}
+	@media (min-width: 768px) {
+		/* Large devices*/		
+	}
 }

@@ -28,7 +28,6 @@ function App() {
   }
 
   function handleZoneChange(zoneNumber: number) {
-    console.warn('zone change = ', zoneNumber);
     setZoneNumberToFilter(zoneNumber);
   }
 
@@ -38,7 +37,6 @@ function App() {
   }
 
   function filterLimits() {
-    console.warn('filtering, zoneNumberToFilter=', zoneNumberToFilter, ' , showInSeasonOnly=',showInSeasonOnly)
     let limitsToShow = zoneLimits;
 
     if (zoneNumberToFilter != 0) {
@@ -71,7 +69,7 @@ function App() {
       <Header />
       <main className="container">
         <article>
-          <UserControls onInSeasonChange={handleShowInSeasonOnlyChange} onZoneChange={handleZoneChange} onClearFilter={handleOnClearFilter} />
+          <UserControls onInSeasonChange={handleShowInSeasonOnlyChange} onZoneChange={handleZoneChange} onFilterClear={handleOnClearFilter} />
         </article>
 
         <article>

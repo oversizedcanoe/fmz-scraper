@@ -1,19 +1,19 @@
 # [fmz-scraper](https://oversizedcanoe.github.io/fmz-scraper/)
-The Ontario Fisheries Management Zone (FMZ) [website](https://www.ontario.ca/page/ontario-fishery-regulations-variation-orders) contains information regarding fishing zones in Ontario, Canada. A key part of this information is when fishing seasons are 'open'. 'Open' season means it is legal to target a certain species of fish.
+The [Ontario Fisheries Management Zone (FMZ) website](https://www.ontario.ca/page/ontario-fishery-regulations-variation-orders) contains information regarding fishing zones in Ontario, Canada. A key part of this information is when fishing seasons are 'open'. 'Open' season means it is legal to target a certain species of fish.
 
 Season limits are listed on the website in one of many formats, with no rhyme or reason as to when one is used over another:
-- 'Open all year'
-- 'Closed all year'
-- 'Labour Day'
-- 'January 1 to March 1'
-- 'third Saturday in June to December 15'
-- 'Friday before third Saturday in June to second Saturday in November'
+- _Open all year_
+- _Closed all year_
+- _Labour Day_
+- _January 1 to March 1_
+- _third Saturday in June to December 15_
+- _Friday before third Saturday in June to second Saturday in November_
 
 In addition, some have two separate limits, i.e. 'January 1 to March 1 and third Saturday in June to December 15'.
 
 If you are targeting 3-4 species of fish, and live near 3 different zones, this can be 12 or more date ranges to keep track of.
 
-[fmz-scraper](https://oversizedcanoe.github.io/fmz-scraper/) is a tool to help with improve this.
+[fmz-scraper](https://oversizedcanoe.github.io/fmz-scraper/) is website designed to simplify this.
 
 Half of it is a Python script which uses [Selenium](https://www.selenium.dev/) to scrape the FMZ website, process the data, and output the data as JSON, with all dates pre-formatted to handle all the different season limit ranges used on the FMZ site.
 
@@ -25,7 +25,7 @@ Output will be stored for each year in [/output](/output).
 - [2024 data](/output/2024.json)
 
 ## Usage
-### Scraper
+#### Scraper
 To run the scraper and generate the output locally, clone or download the repo and open a terminal to the `fmz-scraper\scraper` directory. In order to manage dependencies properly I suggest creating a virtual environement. In a terminal: 
 ````
 python -m venv venv
@@ -47,7 +47,7 @@ python scrape.py 10 14
 After running [scrape.py](scrape.py), the output will be added to the [/output](/output) folder. The file name defaults to the current year, and will overwrite existing files.
 
 
-### Web
+#### Web
 This is a React app built with Vite. In a terminal in the project root folder:
 ````
 cd /web
@@ -64,11 +64,12 @@ Alternatively, view the [github pages](https://oversizedcanoe.github.io/fmz-scra
 
 ### Todo
 Web
-- Currently the JSON file is packaged in the built React .js file. They should be served as files/assets instead.
+- Currently the JSON file is packaged in the dist .js file. They should be served as files/assets instead.
 - Allow user to select other other JSON files, such as the previous years.
 - Link to/allow user to access raw JSON files from github pages
-- Update favicon
 - Add github repo link to web interface 
+- Add warning about checking the website (and link to the website) to verify dates, as well as license limits
+- Allow user to select more than one item in the zone dropdown
 
 Scraper
 - Clean up code/comments: There are a lot of things that could be improved. 

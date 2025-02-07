@@ -62,7 +62,7 @@ npm run dev -- --host
 
 Alternatively, view the [github pages](https://oversizedcanoe.github.io/fmz-scraper/).
 
-### Todo
+## Todo
 Web
 - Currently the JSON file is packaged in the dist .js file. They should be served as files/assets instead.
 - Allow user to select other other JSON files, such as the previous years.

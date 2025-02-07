@@ -1,17 +1,4 @@
-/* .dark-zone {
-	background-color:  rgb(227, 227, 227);
-}
-.light-zone {
-	background-color:  rgb(245, 245, 245);
-}
-
-.dark-fish {
-	background-color:  rgb(184, 255, 180);
-}
-.light-fish {
-	background-color:  rgb(211, 255, 209);
-} */
-
 td {
 	text-align: center;
+	font-size: 0.9rem;
 }

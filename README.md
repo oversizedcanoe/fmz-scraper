@@ -57,7 +57,7 @@ npm install
 npm run dev 
 
 # run locally, exposed on local IP address (i.e., to access from your phone)
-npm run dev -- --host
+npm run dev -- -- --host
 ````
 
 Alternatively, view the [github pages](https://oversizedcanoe.github.io/fmz-scraper/).

@@ -1,3 +1,4 @@
+import time
 from models.fish_limit import FishLimit
 from date_parser import DateParser
 from models.zone_limit import ZoneLimit
@@ -11,14 +12,17 @@ date_parser = DateParser()
 def get_zone_limits(zones: list[int]) -> list[ZoneLimit]:
     zone_limits: list[ZoneLimit] = []
 
-    for zone_number in zones:
-        print(f'Getting Zone {zones.index(zone_number) + 1}/{len(zones)} (Zone {zone_number})')
+    for zone in zones:
+        zone_number_in_list = zones.index(zone) + 1
+        zone_quantity = len(zones)
 
-        zone_limit = ZoneLimit(zone_number)
+        print(f'Getting Zone {zone_number_in_list}/{zone_quantity} (Zone {zone})')
+
+        zone_limit = ZoneLimit(zone)
 
         fish_limit = FishLimit()
         fish_limits: list[FishLimit] = []
-        text_sections = fmz_scraper.get_text_sections(zone_number)
+        text_sections = fmz_scraper.get_text_sections(zone)
 
         for text in text_sections:
             if "Aggregate" in text or 'Limits:' in text:
@@ -36,6 +40,12 @@ def get_zone_limits(zones: list[int]) -> list[ZoneLimit]:
 
         zone_limit.fish_limits = fish_limits
         zone_limits.append(zone_limit)
+
+        print(f'Scraped zone {zone_number_in_list}/{zone_quantity} (Zone {zone})')
+
+        if zone_number_in_list != zone_quantity:
+            print('Sleeping...')
+            time.sleep(30)
     
     return zone_limits
 

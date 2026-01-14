@@ -1,4 +1,4 @@
-import jsonData from '../assets/2025.json';
+import jsonData from '../assets/2026.json';
 import { FishLimit, RangeLimit, ZoneLimit } from './shared';
 
 export function parseJsonToLimits(): ZoneLimit[]{

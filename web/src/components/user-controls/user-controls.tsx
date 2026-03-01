@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { StorageService } from '../../shared/storageService';
+import './user-controls.css'
 
 interface UserControlsProps {
   onZoneChange: Function;
@@ -45,21 +46,24 @@ function UserControls({ onZoneChange, onInSeasonChange, onFilterClear }: UserCon
   return (
     <form>
       <fieldset className="grid">
-        <select name="zoneNumber" value={zoneNumberToFilter} onChange={(e) => onZoneDropdownChanged(e.target.value)}>
+        <div>
+          <select name="zoneNumber" value={zoneNumberToFilter} onChange={(e) => onZoneDropdownChanged(e.target.value)}>
 
-          <option value={0}>All Zones</option>
-          {Array.from({ length: zoneQuantity }, (_, i) => {
-            const zone = i + 1;
-            const label = zoneLabels?.[zone];
+            <option value={0}>All Zones</option>
+            {Array.from({ length: zoneQuantity }, (_, i) => {
+              const zone = i + 1;
+              const label = zoneLabels?.[zone];
 
-            return (
-              <option value={zone} key={zone}>
-                Zone {zone}{label ? ` (${label})` : ""}
-              </option>
-            );
-          })}
+              return (
+                <option value={zone} key={zone}>
+                  Zone {zone}{label ? ` (${label})` : ""}
+                </option>
+              );
+            })}
 
-        </select>
+          </select>
+          <a href="https://www.ontario.ca/fishonline" target="_blank">Find your Zone</a>
+        </div>
         <label>
           <input type="checkbox" name="notify" checked={showInSeasonOnly} onChange={onShowInSeasonOnlyChecked} />
           In Season Only

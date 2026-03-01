@@ -1,3 +1,5 @@
+export const JSON_YEAR: number = 2026;
+
 import jsonData from '../assets/2026.json';
 import { FishLimit, RangeLimit, ZoneLimit } from './shared';
 

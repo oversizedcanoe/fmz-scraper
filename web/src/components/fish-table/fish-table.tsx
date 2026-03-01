@@ -1,5 +1,5 @@
 import { ZoneLimit } from '../../shared/shared'
-import { formatDate } from '../../shared/utility'
+import { formatDate, JSON_YEAR } from '../../shared/utility'
 import './fish-table.css'
 
 interface FishTableProps {
@@ -14,7 +14,7 @@ function FishTable({ zoneLimits }: FishTableProps) {
                 <tr>
                     <th>Zone</th>
                     <th>Species</th>
-                    <th>Season(s)</th>
+                    <th>Season(s) ({JSON_YEAR})</th>
                 </tr>
 
             </thead>

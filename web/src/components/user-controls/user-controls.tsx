@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { StorageService } from '../../shared/storageService';
 
 interface UserControlsProps {
   onZoneChange: Function;
@@ -6,47 +7,70 @@ interface UserControlsProps {
   onFilterClear: Function;
 }
 
-function UserControls({onZoneChange, onInSeasonChange, onFilterClear}: UserControlsProps) {
+function UserControls({ onZoneChange, onInSeasonChange, onFilterClear }: UserControlsProps) {
   const [zoneNumberToFilter, setZoneNumberToFilter] = useState(0);
-  const [showInSeasonOnly,setShowInSeasonOnly] = useState(false);
+  const [showInSeasonOnly, setShowInSeasonOnly] = useState(false);
+  const [zoneLabels, setZoneLabels] = useState(StorageService.ZoneLabels || {});
   const zoneQuantity = 20;
 
-  function onShowInSeasonOnlyChecked(){
+  function onShowInSeasonOnlyChecked() {
     const newValue = !showInSeasonOnly;
     setShowInSeasonOnly(newValue);
     onInSeasonChange(newValue);
   }
 
-  function onZoneDropdownChanged(zoneNumber: any){
+  function onZoneDropdownChanged(zoneNumber: any) {
     setZoneNumberToFilter(zoneNumber);
     onZoneChange(zoneNumber)
   }
 
-  function onClearFilterClicked(){
+  function onClearFilterClicked() {
     setShowInSeasonOnly(false);
     setZoneNumberToFilter(0);
     onFilterClear();
   }
 
+  function onLabelZoneClicked(zoneNumber: number) {
+    const label: string | null = prompt(`What would you like to label Zone ${zoneNumber}?`)
+
+    const newLabels = {
+      ...zoneLabels,
+      [zoneNumber]: label ?? ""
+    };
+
+    setZoneLabels(newLabels);
+    StorageService.ZoneLabels = newLabels;
+  }
+
   return (
     <form>
-    <fieldset className="grid">
+      <fieldset className="grid">
         <select name="zoneNumber" value={zoneNumberToFilter} onChange={(e) => onZoneDropdownChanged(e.target.value)}>
 
           <option value={0}>All Zones</option>
-          {[...Array(zoneQuantity)].map((_, i) =>
-                <option value={i+1} key={i}>Zone {i+1}</option>
-          )}
+          {Array.from({ length: zoneQuantity }, (_, i) => {
+            const zone = i + 1;
+            const label = zoneLabels?.[zone];
+
+            return (
+              <option value={zone} key={zone}>
+                Zone {zone}{label ? ` (${label})` : ""}
+              </option>
+            );
+          })}
 
         </select>
-      <label>
-        <input type="checkbox" name="notify" checked={showInSeasonOnly} onChange={onShowInSeasonOnlyChecked} />
-        In Season Only
-      </label>
+        <label>
+          <input type="checkbox" name="notify" checked={showInSeasonOnly} onChange={onShowInSeasonOnlyChecked} />
+          In Season Only
+        </label>
 
-      <button onClick={onClearFilterClicked} type='button'>Clear Filter</button>
-    </fieldset>
-  </form>
+        {zoneNumberToFilter > 0 && <button type="button" onClick={() => onLabelZoneClicked(zoneNumberToFilter)}>Label Zone</button>}
+
+        <button onClick={onClearFilterClicked} type='reset'>Clear Filter</button>
+
+      </fieldset>
+    </form>
   )
 }
 
@@ -55,4 +79,3 @@ export default UserControls
 
 
 
- 

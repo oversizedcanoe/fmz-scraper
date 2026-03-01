@@ -53,7 +53,7 @@ Finally, run the scraper with:
 python .\service\scrape.py
 ````
 
-> :warning: As of 2026, the FMZ Website seems no have implemented rate limiting. Due to this, a 30 second delay has been added between zones.
+> :warning: As of 2026, the FMZ Website seems to have implemented rate limiting. Due to this, a 30 second delay has been added between zones.
 
 Optionally, command line arguements can be provided to limit which zones are scraped.
 

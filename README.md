@@ -20,23 +20,43 @@ Half of it is a Python script which uses [Selenium](https://www.selenium.dev/) t
 The other half is a [Web interface](https://oversizedcanoe.github.io/fmz-scraper/) which makes searching/filtering easy, based on which Zones and species you care about.
 
 ## Output
-Output will be stored for each year in [/output](/output).
+Output will be stored for each year in the `/output` folder.
+- [2026 data](/output/2026.json)
 - [2025 data](/output/2025.json)
 - [2024 data](/output/2024.json)
 
 ## Usage
 #### Scraper
-To run the scraper and generate the output locally, clone or download the repo and open a terminal to the `fmz-scraper\scraper` directory. In order to manage dependencies properly I suggest creating a virtual environement. In a terminal: 
+To run the scraper and generate the output locally, clone or download the repo and open a terminal to the `fmz-scraper\scraper` directory. In order to manage dependencies properly I suggest creating a virtual environement. *This can be skipped if you already have a `venv` folder.*
+
+In the root of the project, open a terminal and run the following to create a `venv` folder: 
+
 ````
-python -m venv venv
+python -m venv venv 
+````
+
+Next, run the following to activate the virtual environment:
+
+````
 .\venv\Scripts\activate
 ````
-After optionally doing this, install the required dependencies and run [scrape.py](scrape.py).
+
+After doing this, install the required dependencies:
+
 ````
-pip install requirements.txt
-python scrape.py
+pip install -r requirements.txt
 ````
+
+Finally, run the scraper with: 
+
+````
+python .\service\scrape.py
+````
+
+> :warning: As of 2026, the FMZ Website seems no have implemented rate limiting. Due to this, a 30 second delay has been added between zones.
+
 Optionally, command line arguements can be provided to limit which zones are scraped.
+
 ````
 # only gets zone 5
 python scrape.py 5
@@ -44,11 +64,13 @@ python scrape.py 5
 # only gets zones 10 and 14
 python scrape.py 10 14
 ````
+
 After running [scrape.py](scrape.py), the output will be added to the [/output](/output) folder. The file name defaults to the current year, and will overwrite existing files.
 
 
 #### Web
 This is a React app built with Vite. In a terminal in the project root folder:
+
 ````
 cd /web
 npm install
@@ -61,6 +83,13 @@ npm run dev -- -- --host
 ````
 
 Alternatively, view the [github pages](https://oversizedcanoe.github.io/fmz-scraper/).
+
+#### Deployment
+For my own future reference, since I only use this once a year...
+
+````
+npm run deploy
+````
 
 ## Todo
 Web
